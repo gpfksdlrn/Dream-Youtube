@@ -1,0 +1,1655 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "FYd67SSEKx7t1EU0BO_ZDH8_utI",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "9fhpn_R_RstKzZ_QXXe2Y0xzB38",
+      "id": "_inKs4eeHiI",
+      "snippet": {
+        "publishedAt": "2023-12-13T15:43:38Z",
+        "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+        "title": "KUNG FU PANDA 4 | Official Trailer",
+        "description": "Kung Fu Panda 4 - In Theaters March 8\n\nThis spring, for the first time in almost a decade, comedy icon Jack Black returns to his role as Po, the world’s most unlikely kung fu master, with a hilarious, butt-kicking new chapter in DreamWorks Animation’s beloved action-comedy franchise: Kung Fu Panda 4. \n\nAfter three death-defying adventures defeating world-class villains with his unmatched courage and mad martial arts skills, Po, the Dragon Warrior (Golden Globe nominee Jack Black), is called upon by destiny to … give it a rest already. More specifically, he’s tapped to become the Spiritual Leader of the Valley of Peace.\n\nThat poses a couple of obvious problems. First, Po knows as much about spiritual leadership as he does about the paleo diet, and second, he needs to quickly find and train a new Dragon Warrior before he can assume his new lofty position. \n\nEven worse, there’s been a recent sighting of a wicked, powerful sorceress, Chameleon (Oscar® winner Viola Davis), a tiny lizard who can shapeshift into any creature, large or small. And Chameleon has her greedy, beady little eyes on Po’s Staff of Wisdom, which would give her the power to re-summon all the master villains whom Po has vanquished to the spirit realm. \n\nSo, Po’s going to need some help. He finds it (kinda?) in the form of crafty, quick-witted thief Zhen (Golden Globe winner Awkwafina), a corsac fox who really gets under Po’s fur but whose skills will prove invaluable. In their quest to protect the Valley of Peace from Chameleon’s reptilian claws, this comedic odd-couple duo will have to work together. In the process, Po will discover that heroes can be found in the most unexpected places. \n\nThe film features the voice talent of returning stars Academy Award® winner Dustin Hoffman as Kung Fu master, Shifu; James Hong (Everything Everywhere All at Once) as Po’s adoptive father, Mr. Ping; Academy Award® nominee Bryan Cranston as Po’s birth father, Li, and Emmy Award nominee Ian McShane as Tai Lung, Shifu’s former student and arch-nemesis. Oscar® winner Ke Huy Quan (Everything Everywhere All at Once) joins the ensemble as a new character, Han, the leader of the Den of Thieves. \n \nKung Fu Panda 4 is directed by Mike Mitchell (DreamWorks Animation’s Trolls, Shrek Forever After) and produced by Rebecca Huntley (DreamWorks Animation’s The Bad Guys). The film’s co-director is Stephanie Ma Stine (She-Ra and the Princesses of Power). In 2008, the Academy Award®-nominated 2008 inaugural chapter, Kung Fu Panda, became DreamWorks Animation’s highest-grossing original animated film and launched a franchise that has earned more than $1.8 billion at the global box-office.\n\nSocial Handles:\nFacebook: www.facebook.com/kungfupanda \nTwitter: https://twitter.com/dreamworks \nInstagram: https://www.instagram.com/kungfupanda \nTikTok: https://www.tiktok.com/@dreamworks \nWebsite: https://www.kungfupanda.com\n#KungFuPanda",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_inKs4eeHiI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_inKs4eeHiI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_inKs4eeHiI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_inKs4eeHiI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_inKs4eeHiI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Universal Pictures",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "KUNG FU PANDA 4 | Official Trailer",
+          "description": "Kung Fu Panda 4 - In Theaters March 8\n\nThis spring, for the first time in almost a decade, comedy icon Jack Black returns to his role as Po, the world’s most unlikely kung fu master, with a hilarious, butt-kicking new chapter in DreamWorks Animation’s beloved action-comedy franchise: Kung Fu Panda 4. \n\nAfter three death-defying adventures defeating world-class villains with his unmatched courage and mad martial arts skills, Po, the Dragon Warrior (Golden Globe nominee Jack Black), is called upon by destiny to … give it a rest already. More specifically, he’s tapped to become the Spiritual Leader of the Valley of Peace.\n\nThat poses a couple of obvious problems. First, Po knows as much about spiritual leadership as he does about the paleo diet, and second, he needs to quickly find and train a new Dragon Warrior before he can assume his new lofty position. \n\nEven worse, there’s been a recent sighting of a wicked, powerful sorceress, Chameleon (Oscar® winner Viola Davis), a tiny lizard who can shapeshift into any creature, large or small. And Chameleon has her greedy, beady little eyes on Po’s Staff of Wisdom, which would give her the power to re-summon all the master villains whom Po has vanquished to the spirit realm. \n\nSo, Po’s going to need some help. He finds it (kinda?) in the form of crafty, quick-witted thief Zhen (Golden Globe winner Awkwafina), a corsac fox who really gets under Po’s fur but whose skills will prove invaluable. In their quest to protect the Valley of Peace from Chameleon’s reptilian claws, this comedic odd-couple duo will have to work together. In the process, Po will discover that heroes can be found in the most unexpected places. \n\nThe film features the voice talent of returning stars Academy Award® winner Dustin Hoffman as Kung Fu master, Shifu; James Hong (Everything Everywhere All at Once) as Po’s adoptive father, Mr. Ping; Academy Award® nominee Bryan Cranston as Po’s birth father, Li, and Emmy Award nominee Ian McShane as Tai Lung, Shifu’s former student and arch-nemesis. Oscar® winner Ke Huy Quan (Everything Everywhere All at Once) joins the ensemble as a new character, Han, the leader of the Den of Thieves. \n \nKung Fu Panda 4 is directed by Mike Mitchell (DreamWorks Animation’s Trolls, Shrek Forever After) and produced by Rebecca Huntley (DreamWorks Animation’s The Bad Guys). The film’s co-director is Stephanie Ma Stine (She-Ra and the Princesses of Power). In 2008, the Academy Award®-nominated 2008 inaugural chapter, Kung Fu Panda, became DreamWorks Animation’s highest-grossing original animated film and launched a franchise that has earned more than $1.8 billion at the global box-office.\n\nSocial Handles:\nFacebook: www.facebook.com/kungfupanda \nTwitter: https://twitter.com/dreamworks \nInstagram: https://www.instagram.com/kungfupanda \nTikTok: https://www.tiktok.com/@dreamworks \nWebsite: https://www.kungfupanda.com\n#KungFuPanda"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0hh9NGF48dQY2RrdleEtyvRf8sw",
+      "id": "aDyQxtg0V2w",
+      "snippet": {
+        "publishedAt": "2023-12-13T14:00:01Z",
+        "channelId": "UCuPivVjnfNo4mb3Oog_frZg",
+        "title": "Civil War | Official Trailer HD | A24",
+        "description": "SUBSCRIBE: http://bit.ly/A24subscribe\r\n\r\nFrom writer/director Alex Garland and starring Kirsten Dunst, Wagner Moura, Stephen McKinley Henderson, and Cailee Spaeny. CIVIL WAY – In Theaters April 26, 2024.\r\n\r\nRELEASE DATE: April 26, 2024\r\nDIRECTOR: Alex Garland\r\nCAST: Kirsten Dunst, Wagner Moura, Stephen McKinley Henderson, and Cailee Spaeny\r\n\r\nLike CIVIL WAR on FACEBOOK: https://bit.ly/CivilWar_FB\r\nFollow CIVIL WAR on TWITTER: https://bit.ly/CivilWar_TW\nFollow CIVIL WAR on INSTAGRAM:  https://bit.ly/CivilWar_IG\r\n\r\n------\r\n\r\nABOUT A24:\r\nThe studio behind MOONLIGHT, LADY BIRD, EX MACHINA, THE WITCH, EIGHTH GRADE, HEREDITARY & more.\r\n\r\nComing Soon: The Zone of Interest, The Iron Claw\r\n\r\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\r\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\r\nLike A24 on FACEBOOK: http://bit.ly/FBA24\r\nFollow A24 on TWITTER: http://bit.ly/TweetA24\r\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aDyQxtg0V2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aDyQxtg0V2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aDyQxtg0V2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aDyQxtg0V2w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aDyQxtg0V2w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "A24",
+        "tags": [
+          "a24",
+          "a24 films",
+          "a24 trailers",
+          "independent films",
+          "trailer",
+          "HD",
+          "official",
+          "movie",
+          "film",
+          "a24 movies",
+          "oscar winner",
+          "academy award winner"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Civil War | Official Trailer HD | A24",
+          "description": "SUBSCRIBE: http://bit.ly/A24subscribe\r\n\r\nFrom writer/director Alex Garland and starring Kirsten Dunst, Wagner Moura, Stephen McKinley Henderson, and Cailee Spaeny. CIVIL WAY – In Theaters April 26, 2024.\r\n\r\nRELEASE DATE: April 26, 2024\r\nDIRECTOR: Alex Garland\r\nCAST: Kirsten Dunst, Wagner Moura, Stephen McKinley Henderson, and Cailee Spaeny\r\n\r\nLike CIVIL WAR on FACEBOOK: https://bit.ly/CivilWar_FB\r\nFollow CIVIL WAR on TWITTER: https://bit.ly/CivilWar_TW\nFollow CIVIL WAR on INSTAGRAM:  https://bit.ly/CivilWar_IG\r\n\r\n------\r\n\r\nABOUT A24:\r\nThe studio behind MOONLIGHT, LADY BIRD, EX MACHINA, THE WITCH, EIGHTH GRADE, HEREDITARY & more.\r\n\r\nComing Soon: The Zone of Interest, The Iron Claw\r\n\r\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\r\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\r\nLike A24 on FACEBOOK: http://bit.ly/FBA24\r\nFollow A24 on TWITTER: http://bit.ly/TweetA24\r\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rQsLdSXR3-AftCydGuSvTPeRK3s",
+      "id": "Acn0EIys4b4",
+      "snippet": {
+        "publishedAt": "2023-12-13T16:00:05Z",
+        "channelId": "UCzfyYtgvkx5mLy8nlLlayYg",
+        "title": "Hazbin Hotel - Season 1 Trailer",
+        "description": "GET READY FOR An R-rated, animated musical comedy set in Hell. Yes, you read that right!! Created by Vivienne Medrano, Hazbin Hotel follows Charlie Morningstar, the princess of Hell, as she pursues her seemingly impossible goal of rehabilitating demons to peacefully reduce overpopulation in her kingdom. Starring Erika Henningsen, Stephanie Beatriz, Alex Brightman, Keith David, Kimiko Glenn, Blake Roman, Amir Talai, Christian Borle, and Joel Perez. Guest starring Broadway veterans Darren Criss, Jeremy Jordan), Daphne Rubin-Vega, Patina Miller, and Jessica Vosk. With original music and lyrics from platinum-certified artist Sam Haft and Emmy-nominated Andrew Underberg.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Acn0EIys4b4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Acn0EIys4b4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Acn0EIys4b4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Acn0EIys4b4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Acn0EIys4b4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vivziepop",
+        "tags": ["Vivziepop", "Zoophobia"],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hazbin Hotel - Season 1 Trailer",
+          "description": "GET READY FOR An R-rated, animated musical comedy set in Hell. Yes, you read that right!! Created by Vivienne Medrano, Hazbin Hotel follows Charlie Morningstar, the princess of Hell, as she pursues her seemingly impossible goal of rehabilitating demons to peacefully reduce overpopulation in her kingdom. Starring Erika Henningsen, Stephanie Beatriz, Alex Brightman, Keith David, Kimiko Glenn, Blake Roman, Amir Talai, Christian Borle, and Joel Perez. Guest starring Broadway veterans Darren Criss, Jeremy Jordan), Daphne Rubin-Vega, Patina Miller, and Jessica Vosk. With original music and lyrics from platinum-certified artist Sam Haft and Emmy-nominated Andrew Underberg."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "M2rVui18LU1dFV3_MHX-5I94QGk",
+      "id": "8c7KOGxeY3w",
+      "snippet": {
+        "publishedAt": "2023-12-13T17:00:20Z",
+        "channelId": "UCJrREGJ2R1mMuKJkZ8SMCcA",
+        "title": "Becky G - POR EL CONTRARIO with Leonardo Aguilar & Ángela Aguilar (Performance Video)",
+        "description": "Becky G - POR EL CONTRARIO (Performance Video)\n\nMusic: \nApple Music: https://BeckyG.lnk.to/ESQUINAS/applemusic\nSpotify: https://BeckyG.lnk.to/ESQUINAS/spotify\nAmazon: https://BeckyG.lnk.to/ESQUINAS/amazonmusicstreaming\nYouTube: https://BeckyG.lnk.to/ESQUINAS/youtube\niTunes: https://BeckyG.lnk.to/ESQUINAS/itunes\nDeezer: https://BeckyG.lnk.to/ESQUINAS/deezer\nTikTok: https://BeckyG.lnk.to/ESQUINAS/tiktokusemysound   \nPandora: https://BeckyG.lnk.to/ESQUINAS/pandora\n  \nBecky G: \nOfficial Site: https://www.iambeckyg.com/\nShop: https://shop.iambeckyg.com\nTik Tok: https://www.tiktok.com/@iambeckyg\nFacebook: https://www.facebook.com/iambeckyg\nTwitter: https://twitter.com/iambeckyg\nInstagram: https://www.instagram.com/iambeckyg/\n\nLyrics: \n[Becky G]\nSi se supone que ya te olvide \nQue lo de nosotros ya descansa en paz\nDime que hago aqui en mi soledad \nPensando en como estas \n\n[Leonardo Aguilar]\nDime si hay otra boca que te besa\nSi todavía sigo en tu cabeza \nQuiero saber si con otro tattoo \nTe tapastes mi nombre \nCon otro nombre\n\n[Becky G]\nYo por el contrario casi perdió el alma\nPa no sentir tu adiós que me desarma  \nTrate de negociarlo con el karma \nY me dijo todo se paga \nTodo se paga\n\n[Ángela Aguilar]\nYo por el contrario casi vendo el alma \nA cambio de vivir sin sentir nada \nY se que se me nota en la mirada  \nQue tus recuerdos maltratan \nPero aun no me mata \n\n[Becky G]\nQuise hablar con el karma y pedirle que me dejara \nOlvidar su cara \nQue me perdonará\nPorque siento que apuntas pero no disparas\nLe grito a dios por qué me desamparas \n\n[Ángela Aguilar]\nAveces miento \nPa ver si siento \nQue puedo respirar sin ti\n\n[Leonardo Aguilar]\nPero tu sabes que no es así\nTu si estas bien sin mi \n\n[Ángela Aguilar]\nYo por el contrario casi pierdo el alma \nPor no sentir tu adiós que me desarma \nTrate de negociarlo con el karma \nMe dijo todo se paga \nTodo se paga\n\n[Becky G]\nYo por el contrario casi vendo el alma \nA cambio de vivir sin sentir nada \nY se que se me nota en la mirada \nQue tu recuerdos maltratan \nPero aun no me mata \n\nCredits:\nDirector: Karla Read \nCreative Director: Daniela Matos \nExecutive Producer: Agüita \nHead of Production: Ellen Romero \nExecutive Assistant: Luisa González \nProducer: Jeff Kardesch \nLabel Producer: Karina Lopez\nProduction Manager: Max Robertson\nDP: Gregorio Acuña \nProduction Designer: Thoa Nguyen \nBecky Stylist: Keyla Marquez\n1st AD: John Copeland\n2nd AD: Nathaniel Hailu\n1st AC: Sav Gowling \n2nd AC: Amy Celaya \nRonin Operator: Matthew McCloskey\nDIT / VTR: Ryan Bovee\nStills Photographer: Jackie Lee Young \nKey Grip: Rich Bond\nBB Grip: Trey Palmer\nDolly Grip: Anil Gonnabathula\nGaffer: Brad Keffer\nBB Electric: Scott Conn\nSwing/Driver: Wes French \nCrane Operator: Joe Datri\nSet Dresser: Zack Scott \nSet Dresser: Zane Bares \nStylist: Keyla Marquez \nStyling Team: Deirdre Marcial & Sailor D. Gonzales \nMakeup Artist: Gilbert Estrada \nNail Artist: Lisset Velasquez \nEdit: WORK Editorial \nEditor: Aika Miyake\nAssistant Editor:  Jacob Bottorff \nHead of Production: Gabrielle Page & Max Colt \nLabel: RCA Records \nMarketing: Gina Messeri\nLocation Manager: Tyler Johnson\nTruck PA: Steve Williams\nSet PA: Sam Robertson  \nSet PA: Diogenes Serje \n\n#BeckyG #ESQUINAS #PORELCONTRARIO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8c7KOGxeY3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8c7KOGxeY3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8c7KOGxeY3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8c7KOGxeY3w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8c7KOGxeY3w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BeckyGVEVO",
+        "tags": [
+          "Becky Querido Abuelo",
+          "Querido Abuelo",
+          "Becky 2023",
+          "Querido Abuelo lyrics",
+          "Querido Abuelo letra",
+          "Becky Esquemas",
+          "Esquemas",
+          "Becky",
+          "ESQUINAS",
+          "ESQUINAS album",
+          "ESQUINAS becky album",
+          "new album becky",
+          "por el contrario becky",
+          "Angela Aguilar",
+          "Leonardo Aguilar",
+          "Angela Aguilar becky",
+          "Leonardo Aguilar becky",
+          "Becky with Angela Aguilar Leonardo Aguilar",
+          "Kemosabe Records/RCA Records",
+          "Regional Mexican",
+          "POR"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Becky G - POR EL CONTRARIO with Leonardo Aguilar & Ángela Aguilar (Performance Video)",
+          "description": "Becky G - POR EL CONTRARIO (Performance Video)\n\nMusic: \nApple Music: https://BeckyG.lnk.to/ESQUINAS/applemusic\nSpotify: https://BeckyG.lnk.to/ESQUINAS/spotify\nAmazon: https://BeckyG.lnk.to/ESQUINAS/amazonmusicstreaming\nYouTube: https://BeckyG.lnk.to/ESQUINAS/youtube\niTunes: https://BeckyG.lnk.to/ESQUINAS/itunes\nDeezer: https://BeckyG.lnk.to/ESQUINAS/deezer\nTikTok: https://BeckyG.lnk.to/ESQUINAS/tiktokusemysound   \nPandora: https://BeckyG.lnk.to/ESQUINAS/pandora\n  \nBecky G: \nOfficial Site: https://www.iambeckyg.com/\nShop: https://shop.iambeckyg.com\nTik Tok: https://www.tiktok.com/@iambeckyg\nFacebook: https://www.facebook.com/iambeckyg\nTwitter: https://twitter.com/iambeckyg\nInstagram: https://www.instagram.com/iambeckyg/\n\nLyrics: \n[Becky G]\nSi se supone que ya te olvide \nQue lo de nosotros ya descansa en paz\nDime que hago aqui en mi soledad \nPensando en como estas \n\n[Leonardo Aguilar]\nDime si hay otra boca que te besa\nSi todavía sigo en tu cabeza \nQuiero saber si con otro tattoo \nTe tapastes mi nombre \nCon otro nombre\n\n[Becky G]\nYo por el contrario casi perdió el alma\nPa no sentir tu adiós que me desarma  \nTrate de negociarlo con el karma \nY me dijo todo se paga \nTodo se paga\n\n[Ángela Aguilar]\nYo por el contrario casi vendo el alma \nA cambio de vivir sin sentir nada \nY se que se me nota en la mirada  \nQue tus recuerdos maltratan \nPero aun no me mata \n\n[Becky G]\nQuise hablar con el karma y pedirle que me dejara \nOlvidar su cara \nQue me perdonará\nPorque siento que apuntas pero no disparas\nLe grito a dios por qué me desamparas \n\n[Ángela Aguilar]\nAveces miento \nPa ver si siento \nQue puedo respirar sin ti\n\n[Leonardo Aguilar]\nPero tu sabes que no es así\nTu si estas bien sin mi \n\n[Ángela Aguilar]\nYo por el contrario casi pierdo el alma \nPor no sentir tu adiós que me desarma \nTrate de negociarlo con el karma \nMe dijo todo se paga \nTodo se paga\n\n[Becky G]\nYo por el contrario casi vendo el alma \nA cambio de vivir sin sentir nada \nY se que se me nota en la mirada \nQue tu recuerdos maltratan \nPero aun no me mata \n\nCredits:\nDirector: Karla Read \nCreative Director: Daniela Matos \nExecutive Producer: Agüita \nHead of Production: Ellen Romero \nExecutive Assistant: Luisa González \nProducer: Jeff Kardesch \nLabel Producer: Karina Lopez\nProduction Manager: Max Robertson\nDP: Gregorio Acuña \nProduction Designer: Thoa Nguyen \nBecky Stylist: Keyla Marquez\n1st AD: John Copeland\n2nd AD: Nathaniel Hailu\n1st AC: Sav Gowling \n2nd AC: Amy Celaya \nRonin Operator: Matthew McCloskey\nDIT / VTR: Ryan Bovee\nStills Photographer: Jackie Lee Young \nKey Grip: Rich Bond\nBB Grip: Trey Palmer\nDolly Grip: Anil Gonnabathula\nGaffer: Brad Keffer\nBB Electric: Scott Conn\nSwing/Driver: Wes French \nCrane Operator: Joe Datri\nSet Dresser: Zack Scott \nSet Dresser: Zane Bares \nStylist: Keyla Marquez \nStyling Team: Deirdre Marcial & Sailor D. Gonzales \nMakeup Artist: Gilbert Estrada \nNail Artist: Lisset Velasquez \nEdit: WORK Editorial \nEditor: Aika Miyake\nAssistant Editor:  Jacob Bottorff \nHead of Production: Gabrielle Page & Max Colt \nLabel: RCA Records \nMarketing: Gina Messeri\nLocation Manager: Tyler Johnson\nTruck PA: Steve Williams\nSet PA: Sam Robertson  \nSet PA: Diogenes Serje \n\n#BeckyG #ESQUINAS #PORELCONTRARIO"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "g2mJzwuDB_3Mreik08I2vc5Q-Xg",
+      "id": "W40REQBKK3g",
+      "snippet": {
+        "publishedAt": "2023-12-13T13:00:24Z",
+        "channelId": "UCD1Em4q90ZUK2R5HKesszJg",
+        "title": "Unleash The Force of Nature With Town Hall 16! Clash of Clans Animation",
+        "description": "Deliver untold destruction with the new Hero Equipment, a brand new way to customize your Heroes' abilities. Storm your enemies' bastions with Root Rider, a new Troop who demolishes Walls, but don't overlook Spirit Fox. This secretive new Hero Pet renders your Heroes invisible. Nature has never been so devastating!\n\n\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. http://supr.cl/ThisArmy\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttps://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttps://supercell.com/en/parents/\n\n#clashofclans #townhall16 #th16",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W40REQBKK3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W40REQBKK3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W40REQBKK3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W40REQBKK3g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W40REQBKK3g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Clash of Clans",
+        "tags": [
+          "clash of clans",
+          "COC",
+          "Clash of Clans Gameplay",
+          "Clash of Clans Strategy",
+          "Clash of Clans Animation",
+          "Clash of Clans Commercial",
+          "Clash of Clans Attacks",
+          "Clash of Clans Town Hall",
+          "Hog Rider",
+          "PEKKA",
+          "Clan Wars",
+          "season challenges",
+          "clan war leagues",
+          "clash on",
+          "clan game",
+          "clan games",
+          "clash-a-rama",
+          "clasharama",
+          "root rider",
+          "town hall 16",
+          "th16",
+          "clash of clans new update",
+          "coc animation"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Unleash The Force of Nature With Town Hall 16! Clash of Clans Animation",
+          "description": "Deliver untold destruction with the new Hero Equipment, a brand new way to customize your Heroes' abilities. Storm your enemies' bastions with Root Rider, a new Troop who demolishes Walls, but don't overlook Spirit Fox. This secretive new Hero Pet renders your Heroes invisible. Nature has never been so devastating!\n\n\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. http://supr.cl/ThisArmy\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttps://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttps://supercell.com/en/parents/\n\n#clashofclans #townhall16 #th16"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AdsQwRzL0hF6bTgfWbflRy0FSi4",
+      "id": "mL3iLaYbZqk",
+      "snippet": {
+        "publishedAt": "2023-12-14T00:00:19Z",
+        "channelId": "UCZuPJZ2kGFdlbQu1qotZaHw",
+        "title": "KAROL G - QUE CHIMBA DE VIDA (Official Video)",
+        "description": "Escucha / Stream “QUE CHIMBA DE VIDA” on your favorite platform: https://KarolG.lnk.to/QUECHIMBADEVIDA\n\nSubscribe to my YouTube channel here: https://karolg.lnk.to/SubscribeKarolGYT \n\nConnect with KAROL G: \nInstagram: https://www.instagram.com/karolg/ \nTwitter: https://twitter.com/karolg \nTikTok: https://www.tiktok.com/@karolg \nFacebook: https://www.facebook.com/KarolGOficial \n\nLetra / Lyrics:\n\nAjá (Hey) \nParchando con los míos en la AMG\nSi ven algo brillando por ahí va KG\nPasando por la calle donde la sudé\nPero se siente más cabrón porque ya coroné \n\nNo tenía pa volar y ahora volamos en jet pri\nLa ropa que no valía la cambie por Valenti \nTienen que hablar de mi pa’ mantenerse trending\nY yo lowkey pero flexing \n\nUfff,\n¡Qué chimba de vida!\nEstoy viviendo la life que quería\nHablaron mal los puse a tragar saliva\nEsto es pa los que dijeron que no podía\nY aquí estoy...\nViviendo chimba de vida\nTengo la fucking life que quería\nHaciendo todo lo que soñé algún día\nNo hay privacidad pero hay buena compañía \n\nHay\nbendiciones bastante\nLlegamos a la disco y nos tratan como gangsters \nUna nena buena con piquete e’ maleante\nTrabajo duro no quiero la vida de antes \n\nEstoy\nhaciendo dinero encerrada en la cabina\nSin pisar a nadie yo siempre ando en la mía \nDe noche una Rockstar de día Carolina, \n\nEstoy donde quería \n\nUfff,\n¡Qué chimba de vida!\nEstoy viviendo la life que quería\nHablaron mal los puse a tragar saliva\nEsto es pa los que dijeron que no podía\nY aquí estoy...\nViviendo chimba de vida\nTengo la fucking life que quería\nHaciendo todo lo que soñé algún día\nNo hay privacidad pero hay buena compañía \n\nAgh!\nHey pero subile pues\n(Papi)\nAh Edgar dale Rios\n¡Qué Chimbaaa!\nMe encantó\n\n#KAROLG #QUECHIMBADEVIDA #QCDV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mL3iLaYbZqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mL3iLaYbZqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mL3iLaYbZqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mL3iLaYbZqk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mL3iLaYbZqk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KAROL G",
+        "tags": [
+          "Karol g",
+          "karolg",
+          "tusa",
+          "tusa karol g",
+          "la bichota",
+          "bichota",
+          "bichota season",
+          "amargura",
+          "tqg",
+          "mañana sera bonito",
+          "mientras me curo del cora",
+          "provenza",
+          "mamiii",
+          "barbie",
+          "barbie movie",
+          "watati",
+          "karol g y nicki minaj",
+          "karol g y dua lipa",
+          "mi ex tenia razon",
+          "qlona",
+          "karol g",
+          "s91",
+          "bad bunny",
+          "becky g",
+          "shakira",
+          "j balvin",
+          "ovy on the drums",
+          "bbmas",
+          "reggaeton",
+          "reggaeton colombiano",
+          "pop latino",
+          "msb",
+          "selena",
+          "medellin fest",
+          "msb fest",
+          "labios mordidos",
+          "kali uchis",
+          "msb tour",
+          "msb latam tour",
+          "msb europe"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "KAROL G - QUE CHIMBA DE VIDA (Official Video)",
+          "description": "Escucha / Stream “QUE CHIMBA DE VIDA” on your favorite platform: https://KarolG.lnk.to/QUECHIMBADEVIDA\n\nSubscribe to my YouTube channel here: https://karolg.lnk.to/SubscribeKarolGYT \n\nConnect with KAROL G: \nInstagram: https://www.instagram.com/karolg/ \nTwitter: https://twitter.com/karolg \nTikTok: https://www.tiktok.com/@karolg \nFacebook: https://www.facebook.com/KarolGOficial \n\nLetra / Lyrics:\n\nAjá (Hey) \nParchando con los míos en la AMG\nSi ven algo brillando por ahí va KG\nPasando por la calle donde la sudé\nPero se siente más cabrón porque ya coroné \n\nNo tenía pa volar y ahora volamos en jet pri\nLa ropa que no valía la cambie por Valenti \nTienen que hablar de mi pa’ mantenerse trending\nY yo lowkey pero flexing \n\nUfff,\n¡Qué chimba de vida!\nEstoy viviendo la life que quería\nHablaron mal los puse a tragar saliva\nEsto es pa los que dijeron que no podía\nY aquí estoy...\nViviendo chimba de vida\nTengo la fucking life que quería\nHaciendo todo lo que soñé algún día\nNo hay privacidad pero hay buena compañía \n\nHay\nbendiciones bastante\nLlegamos a la disco y nos tratan como gangsters \nUna nena buena con piquete e’ maleante\nTrabajo duro no quiero la vida de antes \n\nEstoy\nhaciendo dinero encerrada en la cabina\nSin pisar a nadie yo siempre ando en la mía \nDe noche una Rockstar de día Carolina, \n\nEstoy donde quería \n\nUfff,\n¡Qué chimba de vida!\nEstoy viviendo la life que quería\nHablaron mal los puse a tragar saliva\nEsto es pa los que dijeron que no podía\nY aquí estoy...\nViviendo chimba de vida\nTengo la fucking life que quería\nHaciendo todo lo que soñé algún día\nNo hay privacidad pero hay buena compañía \n\nAgh!\nHey pero subile pues\n(Papi)\nAh Edgar dale Rios\n¡Qué Chimbaaa!\nMe encantó\n\n#KAROLG #QUECHIMBADEVIDA #QCDV"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "91LRgOtM9GQZkagU74YmDPUbeiQ",
+      "id": "U2Qp5pL3ovA",
+      "snippet": {
+        "publishedAt": "2023-12-12T17:00:20Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "Dune: Part Two | Official Trailer 3",
+        "description": "You are not prepared for what is to come. #DunePartTwo - Only in theaters March 1.\n\nThe saga continues as award-winning filmmaker Denis Villeneuve embarks on “Dune: Part Two,” the next chapter of Frank Herbert’s celebrated novel Dune, with an expanded all-star international ensemble cast. The film, from Warner Bros. Pictures and Legendary Pictures, is the highly anticipated follow-up to 2021’s six-time Academy Award-winning “Dune.”\n\nThe big-screen epic continues the adaptation of Frank Herbert’s acclaimed bestseller Dune with returning and new stars, including Oscar nominee Timothée Chalamet (“Wonka,” “Call Me by Your Name”), Zendaya (“Spider-Man: No Way Home,” “Malcolm & Marie,” “Euphoria”), Rebecca Ferguson (“Mission: Impossible – Dead Reckoning”), Oscar nominee Josh Brolin (“Avengers: End Game,” “Milk”), Oscar nominee Austin Butler (“Elvis,” “Once Upon A Time…In Hollywood”), Oscar nominee Florence Pugh (“Black Widow,” “Little Women”), Dave Bautista (the “Guardians of the Galaxy” films, “Thor: Love and Thunder”), Oscar winner Christopher Walken (“The Deer Hunter,” “Hairspray”), Léa Seydoux (the “James Bond” franchise and “Crimes of the Future”), Souheila Yacoub (“The Braves,” “Climax”), with Stellan Skarsgård (the “Mamma Mia!” films, “Avengers: Age of Ultron”), with Oscar nominee Charlotte Rampling (“45 Years,” “Assassin’s Creed”), and Oscar winner Javier Bardem (“No Country for Old Men,” “Being the Ricardos”).\n\n“Dune: Part Two” will explore the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.\n\nVilleneuve directed from a screenplay he co-wrote with Jon Spaihts based on Herbert’s novel. The film is produced by Mary Parent, Cale Boyter, Villeneuve, Tanya Lapointe and Patrick McCormick. The executive producers are Joshua Grode, Herbert W. Gains, Jon Spaihts, Thomas Tull, Brian Herbert, Byron Merritt, Kim Herbert, with Kevin J. Anderson serving as creative consultant.\n\nVilleneuve is again collaborating with his “Dune” creatives: Oscar-winning director of photography Greig Fraser; Oscar-winning production designer Patrice Vermette; Oscar-winning editor Joe Walker; Oscar-winning visual effects supervisor Paul Lambert; Oscar-nominated costume designer Jacqueline West. Oscar-winning composer Hans Zimmer is again on hand to create the score.\n\nWarner Bros. Pictures and Legendary Pictures Present A Legendary Pictures Production, A Film By Denis Villeneuve, “Dune: Part Two.” The film is slated for a March 1, 2024 release in theaters and IMAX nationwide and internationally beginning on 28 February 2024, distributed by Warner Bros. Pictures.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U2Qp5pL3ovA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U2Qp5pL3ovA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U2Qp5pL3ovA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U2Qp5pL3ovA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U2Qp5pL3ovA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "tags": [
+          "Action",
+          "Arrakis",
+          "Arrival",
+          "Atreides",
+          "Austin Butler",
+          "Bene Gesserit",
+          "Coming Soon",
+          "Denis Villeneuve",
+          "Dune",
+          "Dune Sequel",
+          "Dune: Part Two",
+          "Enemy",
+          "Film",
+          "Film Trailer",
+          "Florence Pugh",
+          "Frank Herbert",
+          "Fremen",
+          "Harkonnen",
+          "Jason Momoa",
+          "Javier Bardem",
+          "Josh Brolin",
+          "Kevin J Anderson",
+          "Legendary",
+          "Movie",
+          "New Movie 2024",
+          "Official Trailer",
+          "Paul Atreides",
+          "Rebecca Ferguson",
+          "Sandworm",
+          "Sci-Fi",
+          "Stellan Skarsgard",
+          "Timothee Chalamet",
+          "Trailer",
+          "Trailer 2023",
+          "WB",
+          "Warner",
+          "Warner Bros",
+          "Warner Brothers",
+          "Zendaya"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Dune: Part Two | Official Trailer 3",
+          "description": "You are not prepared for what is to come. #DunePartTwo - Only in theaters March 1.\n\nThe saga continues as award-winning filmmaker Denis Villeneuve embarks on “Dune: Part Two,” the next chapter of Frank Herbert’s celebrated novel Dune, with an expanded all-star international ensemble cast. The film, from Warner Bros. Pictures and Legendary Pictures, is the highly anticipated follow-up to 2021’s six-time Academy Award-winning “Dune.”\n\nThe big-screen epic continues the adaptation of Frank Herbert’s acclaimed bestseller Dune with returning and new stars, including Oscar nominee Timothée Chalamet (“Wonka,” “Call Me by Your Name”), Zendaya (“Spider-Man: No Way Home,” “Malcolm & Marie,” “Euphoria”), Rebecca Ferguson (“Mission: Impossible – Dead Reckoning”), Oscar nominee Josh Brolin (“Avengers: End Game,” “Milk”), Oscar nominee Austin Butler (“Elvis,” “Once Upon A Time…In Hollywood”), Oscar nominee Florence Pugh (“Black Widow,” “Little Women”), Dave Bautista (the “Guardians of the Galaxy” films, “Thor: Love and Thunder”), Oscar winner Christopher Walken (“The Deer Hunter,” “Hairspray”), Léa Seydoux (the “James Bond” franchise and “Crimes of the Future”), Souheila Yacoub (“The Braves,” “Climax”), with Stellan Skarsgård (the “Mamma Mia!” films, “Avengers: Age of Ultron”), with Oscar nominee Charlotte Rampling (“45 Years,” “Assassin’s Creed”), and Oscar winner Javier Bardem (“No Country for Old Men,” “Being the Ricardos”).\n\n“Dune: Part Two” will explore the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.\n\nVilleneuve directed from a screenplay he co-wrote with Jon Spaihts based on Herbert’s novel. The film is produced by Mary Parent, Cale Boyter, Villeneuve, Tanya Lapointe and Patrick McCormick. The executive producers are Joshua Grode, Herbert W. Gains, Jon Spaihts, Thomas Tull, Brian Herbert, Byron Merritt, Kim Herbert, with Kevin J. Anderson serving as creative consultant.\n\nVilleneuve is again collaborating with his “Dune” creatives: Oscar-winning director of photography Greig Fraser; Oscar-winning production designer Patrice Vermette; Oscar-winning editor Joe Walker; Oscar-winning visual effects supervisor Paul Lambert; Oscar-nominated costume designer Jacqueline West. Oscar-winning composer Hans Zimmer is again on hand to create the score.\n\nWarner Bros. Pictures and Legendary Pictures Present A Legendary Pictures Production, A Film By Denis Villeneuve, “Dune: Part Two.” The film is slated for a March 1, 2024 release in theaters and IMAX nationwide and internationally beginning on 28 February 2024, distributed by Warner Bros. Pictures."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IK80qnl_RWN499GKm9vnxdix04E",
+      "id": "cLUKDZ9G678",
+      "snippet": {
+        "publishedAt": "2023-12-14T01:59:21Z",
+        "channelId": "UCWV-LeZ9dIBQyb8UuBGwdJw",
+        "title": "Chris Broussard & Rob Parker React to Draymond Green Being Suspended Indefinitely",
+        "description": "THE ODD COUPLE - Chris Broussard & Rob Parker react to the breaking news that Draymond Green has been suspended indefinitely and must undergo certain conditions to return to NBA Basketball.\n\n► SUBSCRIBE: http://bit.ly/FSRYT_SUB\n► Twitter: https://twitter.com/foxsportsradio/\n► TikTok: https://www.tiktok.com/@foxsportsradio\n► Instagram: https://www.instagram.com/foxsportsradio/\n► LISTEN LIVE: https://foxsportsradio.iheart.com/listen\n►  Facebook: https://www.facebook.com/foxsportsradio/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cLUKDZ9G678/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cLUKDZ9G678/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cLUKDZ9G678/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cLUKDZ9G678/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cLUKDZ9G678/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fox Sports Radio",
+        "tags": [
+          "NBA",
+          "NFL",
+          "Basketball",
+          "Football",
+          "MLB",
+          "Baseball",
+          "Golf",
+          "PGA",
+          "NCAA",
+          "College Football",
+          "College Basketball",
+          "College Hoops",
+          "Clay Travis",
+          "Outkick",
+          "The Herd",
+          "Colin Cowherd",
+          "Doug Gottlieb",
+          "RJ Bell",
+          "Chris Broussard",
+          "Rob Parker",
+          "Jason Smith",
+          "Ben Maller"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Chris Broussard & Rob Parker React to Draymond Green Being Suspended Indefinitely",
+          "description": "THE ODD COUPLE - Chris Broussard & Rob Parker react to the breaking news that Draymond Green has been suspended indefinitely and must undergo certain conditions to return to NBA Basketball.\n\n► SUBSCRIBE: http://bit.ly/FSRYT_SUB\n► Twitter: https://twitter.com/foxsportsradio/\n► TikTok: https://www.tiktok.com/@foxsportsradio\n► Instagram: https://www.instagram.com/foxsportsradio/\n► LISTEN LIVE: https://foxsportsradio.iheart.com/listen\n►  Facebook: https://www.facebook.com/foxsportsradio/"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fLiARbe9tKFU-AMCLUC0H1145EA",
+      "id": "-9IgwRbcR34",
+      "snippet": {
+        "publishedAt": "2023-12-14T02:31:46Z",
+        "channelId": "UCIIPl-DSCC0prKxGGnJrdGQ",
+        "title": "All New Pokemon in Indigo Disk & Shiny Locks - Pokemon Scarlet and Violet DLC",
+        "description": "Every static encounter in Pokemon Scarlet and Violet DLC: The Hidden Treasure of Area Zero Part 2, The Indigo Disk is shiny locked.\n\nOfficial Playlist of the Pokemon Scarlet & Violet\n► https://www.youtube.com/playlist?list=PLwGyU0mZTYHUjZyaaGiZFozxAjjTv8zS6\n\n▶ Subscribe: ​https://bit.ly/38QZ4ZZ​\n▶ Merch: ​https://austinjohnplays.com/merch\n▶ Watch the Newest Videos Here: https://youtube.com/playlist?list=PLwGyU0mZTYHW5kBAcegELKMtAH-a8RRSG&index=2&playnext=1 \n\n0:00 Shiny Locks\n3:42 New Pokemon Indigo Disk\n\n- - - - - - - - - - - - - - - -\nFollow Austin John Plays\n◉ Twitch: ​https://twitch.tv/austinjohnplays\n◉ Instagram: ​https://instagram.com/AustinJohnPlays\n◉ Twitter: ​https://twitter.com/AustinJohnPlays\n◉ YouTube Member: ​https://youtube.com/austinjohnplays/join\n◉ Website: ​http://austinjohnplays.com\n\n- - - - - - - - - - - - - - - -\nWatch More Austin John Plays!\n\nPokemon Tips & Tricks\nPokemon Scarlet & Violet \n◉ https://www.youtube.com/playlist?list=PLwGyU0mZTYHUjZyaaGiZFozxAjjTv8zS6\nPokemon Legends Arceus \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHW3eLd9CLFBJaZnBpvhYHzl\nPokemon Brilliant Diamond & Shining Pearl \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHUSe1Gb3XPRjroYrRTRzwNt\nNew Pokemon Snap (Switch) \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHW-wzcai2gxVdacD8RUuLo0\nPokemon Sword & Shield \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHV8_WpjI-khCa4rJ15befiQ\nLet's GO Pikachu & Eevee \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHVfhN9kB3qg5UsmzxI8XABF\nPokemon Ultra Sun & Ultra Moon \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHXxwLVA1knr5BpxmhA91Dl4\n\nZelda Tips & Tricks\nLink's Awakening Switch \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHWcmHr1O0o0e7QCcr4l_jlv\nBreath of the Wild Expansion Pass \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHXsTVQDHDDU2T0pQdVCkI7d\nBreath of the Wild \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHWitiRsKE-PqxsRAceFfWXp\n\nLet's Play Series\nAnimal Crossing New Horizons \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHUCWRuo4V8kmhv8DrRHpnq1\nMinecraft \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHVifSaSIAu_MLfgRi5w3k6a\nPokemon Sword & Shield Cagelocke \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHXL3Yw0W0zDe75DVnO5xi3Z\nPokemon ultraLOCKE \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHUikfuatmbqoGBT-S4nhkUm\n\n- - - - - - - - - - - - - - - -\nWelcome to the official Austin John Plays YouTube channel! On this channel you will find a variety of content like News, Tips & Tricks for Pokemon Violet & Scarlet, Legends Arceus, The Legend of Zelda, and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-9IgwRbcR34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-9IgwRbcR34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-9IgwRbcR34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-9IgwRbcR34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-9IgwRbcR34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Austin John Plays",
+        "tags": [
+          "austin john plays",
+          "austin john",
+          "youtube austin john plays",
+          "nintendo",
+          "pokemon",
+          "pokemon Scarlet and Violet",
+          "Returning pokemon Scarlet Violet",
+          "Returning pokemon Scarlet and Violet",
+          "Scarlet Violet Returning pokemon",
+          "Scarlet and Violet Returning pokemon",
+          "Scarlet and Violet The indigo disk",
+          "Scarlet Violet The indigo disk",
+          "scarlet violet returning pokemon",
+          "all returning pokemon",
+          "indigo disk pokemon",
+          "indigo disk legendary pokemon",
+          "shiny locked pokemon",
+          "indigo disk shiny locked pokemon"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "All New Pokemon in Indigo Disk & Shiny Locks - Pokemon Scarlet and Violet DLC",
+          "description": "Every static encounter in Pokemon Scarlet and Violet DLC: The Hidden Treasure of Area Zero Part 2, The Indigo Disk is shiny locked.\n\nOfficial Playlist of the Pokemon Scarlet & Violet\n► https://www.youtube.com/playlist?list=PLwGyU0mZTYHUjZyaaGiZFozxAjjTv8zS6\n\n▶ Subscribe: ​https://bit.ly/38QZ4ZZ​\n▶ Merch: ​https://austinjohnplays.com/merch\n▶ Watch the Newest Videos Here: https://youtube.com/playlist?list=PLwGyU0mZTYHW5kBAcegELKMtAH-a8RRSG&index=2&playnext=1 \n\n0:00 Shiny Locks\n3:42 New Pokemon Indigo Disk\n\n- - - - - - - - - - - - - - - -\nFollow Austin John Plays\n◉ Twitch: ​https://twitch.tv/austinjohnplays\n◉ Instagram: ​https://instagram.com/AustinJohnPlays\n◉ Twitter: ​https://twitter.com/AustinJohnPlays\n◉ YouTube Member: ​https://youtube.com/austinjohnplays/join\n◉ Website: ​http://austinjohnplays.com\n\n- - - - - - - - - - - - - - - -\nWatch More Austin John Plays!\n\nPokemon Tips & Tricks\nPokemon Scarlet & Violet \n◉ https://www.youtube.com/playlist?list=PLwGyU0mZTYHUjZyaaGiZFozxAjjTv8zS6\nPokemon Legends Arceus \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHW3eLd9CLFBJaZnBpvhYHzl\nPokemon Brilliant Diamond & Shining Pearl \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHUSe1Gb3XPRjroYrRTRzwNt\nNew Pokemon Snap (Switch) \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHW-wzcai2gxVdacD8RUuLo0\nPokemon Sword & Shield \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHV8_WpjI-khCa4rJ15befiQ\nLet's GO Pikachu & Eevee \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHVfhN9kB3qg5UsmzxI8XABF\nPokemon Ultra Sun & Ultra Moon \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHXxwLVA1knr5BpxmhA91Dl4\n\nZelda Tips & Tricks\nLink's Awakening Switch \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHWcmHr1O0o0e7QCcr4l_jlv\nBreath of the Wild Expansion Pass \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHXsTVQDHDDU2T0pQdVCkI7d\nBreath of the Wild \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHWitiRsKE-PqxsRAceFfWXp\n\nLet's Play Series\nAnimal Crossing New Horizons \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHUCWRuo4V8kmhv8DrRHpnq1\nMinecraft \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHVifSaSIAu_MLfgRi5w3k6a\nPokemon Sword & Shield Cagelocke \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHXL3Yw0W0zDe75DVnO5xi3Z\nPokemon ultraLOCKE \n◉ https://youtube.com/playlist?list=PLwGyU0mZTYHUikfuatmbqoGBT-S4nhkUm\n\n- - - - - - - - - - - - - - - -\nWelcome to the official Austin John Plays YouTube channel! On this channel you will find a variety of content like News, Tips & Tricks for Pokemon Violet & Scarlet, Legends Arceus, The Legend of Zelda, and more!"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rCDA-mZny3ijTZxKp4w1dYm08j8",
+      "id": "4RION-LCbxY",
+      "snippet": {
+        "publishedAt": "2023-12-13T22:11:38Z",
+        "channelId": "UCZdQjaSoLjIzFnWsDQOv4ww",
+        "title": "Our first sail - from HELL.. (Everything broke, sick kids..) EXTENDED CUT",
+        "description": "To get a 1 year supply of vitamin D3+K2 + 5 individual travel packs FREE with your first purchase, go to https://drinkAG1.com/slv\n\nMASSIVE THANK YOU TO:\n⚡On Board Marine Group (OBMG's Dylan!): https://www.obmghk.com\n💧 Specta Watermakers: https://www.spectrawatermakers.com/us/us\n⚓ Vetus Maxwell for the windlass anchor: https://vetus.com/maxwell-2/\n🛥️ Offshore Cruising Tender: https://octenders.co.nz\n☀️ Sun Powered Yachts: https://www.sunpoweredyachts.com\n\n_________\n\n🐚 NEED MORE CONTENT FROM SLV? Join our crew on Patreon for previews of future episodes and regular live streams to chat with us in real time http://bit.ly/SLVPatreon\n\n⛵ BOOK A TRIP with VagabondeAdventures: https://www.vagabondeadventures.com/our-trips\n📨 For more info, email Jack at: info@vagabondeadventures.com\n\n👙 ELAYNA'S SWIMWEAR COLLECTION: (Get your Vaga Bella Swimwear today!)\nhttps://vagabellaswim.com/\n\n📖 ELAYNA'S BOOK FOR SALE: (Grab your copy of The Little Sailor's ABCs!)\nhttps://www.silverwoodbooks.co.uk/product/9781800422315/little-sailors-abcs-the-by-elayna-carausu\n\n📖 Pre-order Elayna's NEW BOOK 'First Mate Lenny' : https://www.penguin.com.au/books/first-mate-lenny-9781761341175\n\n_________\n\nEPISODE CHAPTERS:\n0:00 - Start\n0:01 - Intro\n3:50 - First Night Onboard\n7:25 - AG1 (Ad)\n10:40 - Departure!\n13:40 - Reflecting on First Day Sail\n15:49 - Sailing through Lightning (43KN of wind!)\n17:32 - Day Two Onboard\n19:11 - Shredded Stay Sail\n26:17 - Engine-less! (Both Engines Stop Working)\n28:00 - Day Three - Blue Water Sailing (8KN)\n33:00 - Problem Solving with Dylan (OBMG)\n36:52 - Musings and Reflections\n40:12 - Thank you, thank you, thank you!\n\nPHOTO CREDIT: \nDe Mary Poppins (8)\" by GonzalezNovo is licensed under CC BY-SA 2.0.\n\n----\n\nOFFICIAL SLV MERCH:\nhttps://sailinglavagabonde.shop\n\nOUR WEBSITE:\nhttp://sailinglavagabonde.org\n\nANIMATIONS:\nIG: @hudson_animation\nWebsite: https://www.hudson-animation.com/\n\nELAYNA'S MUSIC:\nhttps://elaynac.bandcamp.com\n\nFAQ:\nWhat products do we use?\nhttps://shop-lavagabonde.com/collections/products-we-use\nWhat cameras do we use?\nBIG CAMERA: http://amzn.to/1t6fAfY\nOTHER BIG CAMERA: http://amzn.to/2rybQE2\nHANDY CAM: http://amzn.to/25KvT0x\nGOPRO: http://amzn.to/1t6haPc\nDRONE: http://amzn.to/2ooXPLs\nWhat software do we use?\nPremiere Pro https://adobe.ly/2vzkB2I\nPredict Wind http://bit.ly/PredictWindForecasts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4RION-LCbxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4RION-LCbxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4RION-LCbxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4RION-LCbxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4RION-LCbxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sailing La Vagabonde",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Our first sail - from HELL.. (Everything broke, sick kids..) EXTENDED CUT",
+          "description": "To get a 1 year supply of vitamin D3+K2 + 5 individual travel packs FREE with your first purchase, go to https://drinkAG1.com/slv\n\nMASSIVE THANK YOU TO:\n⚡On Board Marine Group (OBMG's Dylan!): https://www.obmghk.com\n💧 Specta Watermakers: https://www.spectrawatermakers.com/us/us\n⚓ Vetus Maxwell for the windlass anchor: https://vetus.com/maxwell-2/\n🛥️ Offshore Cruising Tender: https://octenders.co.nz\n☀️ Sun Powered Yachts: https://www.sunpoweredyachts.com\n\n_________\n\n🐚 NEED MORE CONTENT FROM SLV? Join our crew on Patreon for previews of future episodes and regular live streams to chat with us in real time http://bit.ly/SLVPatreon\n\n⛵ BOOK A TRIP with VagabondeAdventures: https://www.vagabondeadventures.com/our-trips\n📨 For more info, email Jack at: info@vagabondeadventures.com\n\n👙 ELAYNA'S SWIMWEAR COLLECTION: (Get your Vaga Bella Swimwear today!)\nhttps://vagabellaswim.com/\n\n📖 ELAYNA'S BOOK FOR SALE: (Grab your copy of The Little Sailor's ABCs!)\nhttps://www.silverwoodbooks.co.uk/product/9781800422315/little-sailors-abcs-the-by-elayna-carausu\n\n📖 Pre-order Elayna's NEW BOOK 'First Mate Lenny' : https://www.penguin.com.au/books/first-mate-lenny-9781761341175\n\n_________\n\nEPISODE CHAPTERS:\n0:00 - Start\n0:01 - Intro\n3:50 - First Night Onboard\n7:25 - AG1 (Ad)\n10:40 - Departure!\n13:40 - Reflecting on First Day Sail\n15:49 - Sailing through Lightning (43KN of wind!)\n17:32 - Day Two Onboard\n19:11 - Shredded Stay Sail\n26:17 - Engine-less! (Both Engines Stop Working)\n28:00 - Day Three - Blue Water Sailing (8KN)\n33:00 - Problem Solving with Dylan (OBMG)\n36:52 - Musings and Reflections\n40:12 - Thank you, thank you, thank you!\n\nPHOTO CREDIT: \nDe Mary Poppins (8)\" by GonzalezNovo is licensed under CC BY-SA 2.0.\n\n----\n\nOFFICIAL SLV MERCH:\nhttps://sailinglavagabonde.shop\n\nOUR WEBSITE:\nhttp://sailinglavagabonde.org\n\nANIMATIONS:\nIG: @hudson_animation\nWebsite: https://www.hudson-animation.com/\n\nELAYNA'S MUSIC:\nhttps://elaynac.bandcamp.com\n\nFAQ:\nWhat products do we use?\nhttps://shop-lavagabonde.com/collections/products-we-use\nWhat cameras do we use?\nBIG CAMERA: http://amzn.to/1t6fAfY\nOTHER BIG CAMERA: http://amzn.to/2rybQE2\nHANDY CAM: http://amzn.to/25KvT0x\nGOPRO: http://amzn.to/1t6haPc\nDRONE: http://amzn.to/2ooXPLs\nWhat software do we use?\nPremiere Pro https://adobe.ly/2vzkB2I\nPredict Wind http://bit.ly/PredictWindForecasts"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "31YGg2JbEouI1yBqH_fxl33G-YI",
+      "id": "9GgNT-SbBPY",
+      "snippet": {
+        "publishedAt": "2023-12-14T01:32:36Z",
+        "channelId": "UCqVCSWnuOSPm26orvNDTuWQ",
+        "title": "The *RANDOM* NINJA TURTLES BOSS Challenge in Fortnite!",
+        "description": "Fortnite Ninja Turtles Skin Early Chapter 5 Season 1 gameplay with Typical Gamer!\nSUBSCRIBE & CLICK THE BELL! 🔔\n\nMY GAMES in FORTNITE!\n🔴 PLAY RED vs BLUE - LIVE EVENT! ► 2786-2114-8349\n🥜 PLAY FORTNUT GUN GAME! ► 8500-5091-3965\n🚀 PLAY ONLYUP, TIME TRAVEL! ► 5264-1761-9807\n❤️ Make sure to FAVORITE and LIKE the maps!\n\nMerch: https://typical.store\nTwitter: https://www.twitter.com/typicalgamer\nInstagram: https://www.instagram.com/typicalgamer\nDiscord: https://discord.gg/tgelite\n\nMusic by Epidemic Sound: https://www.epidemicsound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9GgNT-SbBPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9GgNT-SbBPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9GgNT-SbBPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9GgNT-SbBPY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9GgNT-SbBPY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TG Plays",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The *RANDOM* NINJA TURTLES BOSS Challenge in Fortnite!",
+          "description": "Fortnite Ninja Turtles Skin Early Chapter 5 Season 1 gameplay with Typical Gamer!\nSUBSCRIBE & CLICK THE BELL! 🔔\n\nMY GAMES in FORTNITE!\n🔴 PLAY RED vs BLUE - LIVE EVENT! ► 2786-2114-8349\n🥜 PLAY FORTNUT GUN GAME! ► 8500-5091-3965\n🚀 PLAY ONLYUP, TIME TRAVEL! ► 5264-1761-9807\n❤️ Make sure to FAVORITE and LIKE the maps!\n\nMerch: https://typical.store\nTwitter: https://www.twitter.com/typicalgamer\nInstagram: https://www.instagram.com/typicalgamer\nDiscord: https://discord.gg/tgelite\n\nMusic by Epidemic Sound: https://www.epidemicsound.com"
+        },
+        "defaultAudioLanguage": "zxx"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "02GLhhPHTbSffeWSQY9V77L6Vn0",
+      "id": "cqbo2W780jM",
+      "snippet": {
+        "publishedAt": "2023-12-13T19:31:22Z",
+        "channelId": "UCvgfXK4nTYKudb0rFR6noLA",
+        "title": "UFC 296 Embedded: Vlog Series - Episode 3",
+        "description": "Colby Covington, Paddy Pimblett, champ Alexandre Pantoja, Brandon Royval, Tony Ferguson, and champ Leon Edwards stay sharp with their teams. Shavkat Rakhmonov and Vicente Luque arrive in Las Vegas. \n\nSubscribe to get all the latest UFC content: https://ufc.ac/3u8FIJp\n\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\n\nTo order UFC Pay-Per-Views on ESPN+, visit https://ufc.ac/3NKBvmx (U.S. only)\n\nTo order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)\n\n👉 Shop official UFC Gear, visit https://ufcstore.com\n👉 Shop official UFC Memorabilia, visit https://ufccollectibles.com\n👉 Shop official UFC VIP Live Event Experiences, visit https://ufc.ac/3Oz2gLH\n\nConnect with UFC online and on Social:\n🔴 Website: https://www.ufc.com\n🔵 Twitter: https://www.twitter.com/ufc\n🔵 Facebook: https://www.facebook.com/ufc\n🔴 Instagram: https://www.instagram.com/ufc\n🟡 Snapchat: https://www.snapchat.com/add/ufc\n🟣 Twitch: https://www.twitch.tv/ufc\n\nConnect with UFC FIGHT PASS on Social:\n🔵 Twitter: https://www.twitter.com/ufcfightpass\n🔵 Facebook: https://www.facebook.com/ufcfightpass\n🔴 Instagram: https://www.instagram.com/ufcfightpass\n\n#UFC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cqbo2W780jM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cqbo2W780jM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cqbo2W780jM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cqbo2W780jM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cqbo2W780jM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UFC",
+        "tags": [
+          "ufc",
+          "mma",
+          "ultimate fighting championship",
+          "leon",
+          "rocky",
+          "edwards",
+          "colby",
+          "chaos",
+          "covington",
+          "brandon",
+          "royval",
+          "alexandre",
+          "pantoja",
+          "Stephen",
+          "wonderboy",
+          "thompson",
+          "shavkat",
+          "rakhmonov",
+          "championship",
+          "welterweight",
+          "PPV",
+          "mixed martial arts",
+          "t-mobile",
+          "arena",
+          "las vegas",
+          "dana",
+          "white",
+          "paddy",
+          "pimblett",
+          "raiders"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "UFC 296 Embedded: Vlog Series - Episode 3",
+          "description": "Colby Covington, Paddy Pimblett, champ Alexandre Pantoja, Brandon Royval, Tony Ferguson, and champ Leon Edwards stay sharp with their teams. Shavkat Rakhmonov and Vicente Luque arrive in Las Vegas. \n\nSubscribe to get all the latest UFC content: https://ufc.ac/3u8FIJp\n\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\n\nTo order UFC Pay-Per-Views on ESPN+, visit https://ufc.ac/3NKBvmx (U.S. only)\n\nTo order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)\n\n👉 Shop official UFC Gear, visit https://ufcstore.com\n👉 Shop official UFC Memorabilia, visit https://ufccollectibles.com\n👉 Shop official UFC VIP Live Event Experiences, visit https://ufc.ac/3Oz2gLH\n\nConnect with UFC online and on Social:\n🔴 Website: https://www.ufc.com\n🔵 Twitter: https://www.twitter.com/ufc\n🔵 Facebook: https://www.facebook.com/ufc\n🔴 Instagram: https://www.instagram.com/ufc\n🟡 Snapchat: https://www.snapchat.com/add/ufc\n🟣 Twitch: https://www.twitch.tv/ufc\n\nConnect with UFC FIGHT PASS on Social:\n🔵 Twitter: https://www.twitter.com/ufcfightpass\n🔵 Facebook: https://www.facebook.com/ufcfightpass\n🔴 Instagram: https://www.instagram.com/ufcfightpass\n\n#UFC"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ajNrb-58DafmSMkMtVaM_jmrOfQ",
+      "id": "ZlWStFeN3DM",
+      "snippet": {
+        "publishedAt": "2023-12-13T06:27:39Z",
+        "channelId": "UCU7iRrk3xfpUk0R6VdyC1Ow",
+        "title": "TNT Crew Reacts to Draymond Green’s Ejection | NBA on TNT",
+        "description": "Watch highlights from Inside the NBA with Shaq, Charles Barkley, Kenny Smith and Ernie Johnson and more! Subscribe now to be updated on the latest videos: https://www.youtube.com/nbaontnt?sub_confirmation=1\r\n\r\nConnect with NBA on TNT:\r\nFollow NBA on TNT on Twitter: https://twitter.com/NBAonTNT\r\nLike NBA on TNT on Facebook: https://www.facebook.com/NBAONTNT/\r\nFollow NBA on TNT on Instagram: https://www.instagram.com/nbaontnt/?hl=en",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZlWStFeN3DM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZlWStFeN3DM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZlWStFeN3DM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZlWStFeN3DM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZlWStFeN3DM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBA on TNT",
+        "tags": [
+          "NBA on TNT",
+          "NBA",
+          "Inside the NBA",
+          "Charles Barkley",
+          "Shaq",
+          "Kenny Smith",
+          "Ernie Johnson"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "TNT Crew Reacts to Draymond Green’s Ejection | NBA on TNT",
+          "description": "Watch highlights from Inside the NBA with Shaq, Charles Barkley, Kenny Smith and Ernie Johnson and more! Subscribe now to be updated on the latest videos: https://www.youtube.com/nbaontnt?sub_confirmation=1\r\n\r\nConnect with NBA on TNT:\r\nFollow NBA on TNT on Twitter: https://twitter.com/NBAonTNT\r\nLike NBA on TNT on Facebook: https://www.facebook.com/NBAONTNT/\r\nFollow NBA on TNT on Instagram: https://www.instagram.com/nbaontnt/?hl=en"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1DtV98dNAIzxYluQopLoI4Ao4LI",
+      "id": "GLW29BNRigM",
+      "snippet": {
+        "publishedAt": "2023-12-14T01:14:16Z",
+        "channelId": "UC9-OpMMVoNP5o10_Iyq7Ndw",
+        "title": "Draymond Green Suspended Indefinitely | NBA GameTime",
+        "description": "NBA TV crew reacts to Draymond Green being suspended indefinitely for striking Jusuf Nurkic in the face. The NBA announced Green will be \"required to meet certain league and team conditions\" before returning.\n\nSubscribe: https://www.youtube.com/user/BleacherReport?sub_confirmation=1\nFollow on IG: https://www.instagram.com/f/bleacherreport\nFollow us on Twitter: https://www.twitter.com/bleacherreport\nFollow us on TikTok: https://www.tiktok.com/@bleacherreport\nLike us on Facebook: https://www.facebook.com/bleacherreport",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GLW29BNRigM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GLW29BNRigM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GLW29BNRigM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GLW29BNRigM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GLW29BNRigM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bleacher Report",
+        "tags": ["bleacher report", "br", "nba", "nfl"],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Draymond Green Suspended Indefinitely | NBA GameTime",
+          "description": "NBA TV crew reacts to Draymond Green being suspended indefinitely for striking Jusuf Nurkic in the face. The NBA announced Green will be \"required to meet certain league and team conditions\" before returning.\n\nSubscribe: https://www.youtube.com/user/BleacherReport?sub_confirmation=1\nFollow on IG: https://www.instagram.com/f/bleacherreport\nFollow us on Twitter: https://www.twitter.com/bleacherreport\nFollow us on TikTok: https://www.tiktok.com/@bleacherreport\nLike us on Facebook: https://www.facebook.com/bleacherreport"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EHc3JoFnI1f6DFisZTTVlSGqGUU",
+      "id": "_a3N22HMzd0",
+      "snippet": {
+        "publishedAt": "2023-12-14T03:37:32Z",
+        "channelId": "UCVSSpcmZD2PwPBqb8yKQKBA",
+        "title": "BENCHES CLEAR after Giannis THROWN DOWN 😟 Bobby Portis Jr. EJECTED 🚫 | NBA on ESPN",
+        "description": "Watch as a scuffle breaks out as Giannis Antetokounmpo is thrown to the ground trying to grab a rebound a Bobby Portis Jr. rushes to his defense, garnering his first technical foul. Then another situation occurs with issues following a loose-ball foul on Obi Toppin and Portis Jr. gets his second techinal foul and is ejected from the game.\n\n☑️ Subscribe to ESPN+: https://plus.espn.com/\n📱 Get the ESPN App: http://www.espn.com/espn/apps/espn\n🏀 Subscribe to NBA on ESPN on YouTube: http://bit.ly/2yxs3Og\n☑️ Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n☑️ Watch ESPN on YouTube TV: http://es.pn/YouTubeTV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_a3N22HMzd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_a3N22HMzd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_a3N22HMzd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_a3N22HMzd0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_a3N22HMzd0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBA on ESPN",
+        "tags": [
+          "Giannis Antetokounmpo",
+          "Bobby Portis Jr. fight",
+          "Obi Toppin",
+          "Portis Jr. ejected",
+          "ejected",
+          "giannis fight",
+          "giannis thrown to the ground",
+          "giannis antetokounmpo",
+          "giannis antetokounmpo highlights",
+          "nba",
+          "milwaukee bucks",
+          "giannis",
+          "giannis antetokounmpo ejected",
+          "giannis antetokounmpo bucks",
+          "giannis antetokounmpo mvp",
+          "bobby portis jr. fight",
+          "bobby portis bucks",
+          "bobby portis",
+          "bobby portis fight",
+          "bucks pacers fight",
+          "pacers vs bucks",
+          "nba fights",
+          "pacers vs bucks fight",
+          "giannis vs pacers"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "BENCHES CLEAR after Giannis THROWN DOWN 😟 Bobby Portis Jr. EJECTED 🚫 | NBA on ESPN",
+          "description": "Watch as a scuffle breaks out as Giannis Antetokounmpo is thrown to the ground trying to grab a rebound a Bobby Portis Jr. rushes to his defense, garnering his first technical foul. Then another situation occurs with issues following a loose-ball foul on Obi Toppin and Portis Jr. gets his second techinal foul and is ejected from the game.\n\n☑️ Subscribe to ESPN+: https://plus.espn.com/\n📱 Get the ESPN App: http://www.espn.com/espn/apps/espn\n🏀 Subscribe to NBA on ESPN on YouTube: http://bit.ly/2yxs3Og\n☑️ Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n☑️ Watch ESPN on YouTube TV: http://es.pn/YouTubeTV"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YsnFEMiY-DE33OFvizKgNRduFgI",
+      "id": "Rej1_LcVE3o",
+      "snippet": {
+        "publishedAt": "2023-12-12T22:16:00Z",
+        "channelId": "UCsSsgPaZ2GSmO6il8Cb5iGA",
+        "title": "skibidi toilet 68 (part 2)",
+        "description": "squad gets deeper in the skibidi lab\nfull-screen version\n\nthx @HoovyTube for extra particles\n\nContact me:\ninstagram.com/dafuqboomtv\nblugrayguy@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rej1_LcVE3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rej1_LcVE3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rej1_LcVE3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rej1_LcVE3o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rej1_LcVE3o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaFuq!?Boom!",
+        "tags": [
+          "skibidi meme",
+          "sfm animation",
+          "funny animation",
+          "gmod animation",
+          "skibidi toilet vs cameramen",
+          "titan cameraman",
+          "skibidi toilet",
+          "scientist skibidi"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "skibidi toilet 68 (part 2)",
+          "description": "squad gets deeper in the skibidi lab\nfull-screen version\n\nthx @HoovyTube for extra particles\n\nContact me:\ninstagram.com/dafuqboomtv\nblugrayguy@gmail.com"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Eg4IQ3qbkQJwCfOqDmgluzjHyXc",
+      "id": "rWUG3R1F-IU",
+      "snippet": {
+        "publishedAt": "2023-12-13T23:19:49Z",
+        "channelId": "UC789h3eqw0H1HqGmIsI26OA",
+        "title": "Tony Ferguson on Paddy Pimblett: “I’m gonna turn his face into a ketchup sandwich”",
+        "description": "Tony Ferguson discusses Paddy Pimblett and their fight at UFC 294.\n\nMERCH: https://themaclife.teespring.com/\nVISIT: http://www.themaclife.com\nFOLLOW: http://instagram.com/themaclifeofficial\nFOLLOW: https://twitter.com/TheMaclife\nLIKE: http://facebook.com/themaclife",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rWUG3R1F-IU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rWUG3R1F-IU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rWUG3R1F-IU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rWUG3R1F-IU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rWUG3R1F-IU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TheMacLife",
+        "tags": [
+          "Conor McGregor",
+          "UFC",
+          "Dana White",
+          "MMAFighting",
+          "MMAJunkie",
+          "TheMacLife",
+          "Mac Life",
+          "UFC weigh in",
+          "ESPN MMA",
+          "Jorge Masvidal",
+          "Conor McGregor interview",
+          "UFC weigh ins",
+          "dana white press conference",
+          "conor mcgregor highlights",
+          "McGregor Poirier",
+          "jake paul",
+          "Nick Diaz",
+          "jon jones",
+          "tyson fury",
+          "logan paul",
+          "Nate Diaz",
+          "Khamzat Chimaev",
+          "khamzat",
+          "Adesanya",
+          "jones gane",
+          "jon jones highlights",
+          "Adesanya Strickland",
+          "Sean Strickland",
+          "Sean Strickland funny",
+          "UFC 295",
+          "Aspinall",
+          "Face off",
+          "staredown",
+          "weigh in"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Tony Ferguson on Paddy Pimblett: “I’m gonna turn his face into a ketchup sandwich”",
+          "description": "Tony Ferguson discusses Paddy Pimblett and their fight at UFC 294.\n\nMERCH: https://themaclife.teespring.com/\nVISIT: http://www.themaclife.com\nFOLLOW: http://instagram.com/themaclifeofficial\nFOLLOW: https://twitter.com/TheMaclife\nLIKE: http://facebook.com/themaclife"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3IIB0Rcr1vSvTMA1Bz_5A_DtIDc",
+      "id": "_wxU3z9VxOY",
+      "snippet": {
+        "publishedAt": "2023-12-12T23:53:51Z",
+        "channelId": "UCLFXk9J3O-hhOk0msOjKYdQ",
+        "title": "Something About Zelda Tears of the Kingdom ANIMATED SPEEDRUN ❤️🖤🖤ANY% 06:12 (no amiibo) WORLD RECORD",
+        "description": "Speedrunner Link is back, but can he beat the king of Suave?\n\nhttp://www.TerminalMontage.com\nPatreon: https://www.patreon.com/terminalmontage\nTwitter: https://twitter.com/TerminalMontage\nFacebook: https://www.facebook.com/TerminalMontage/\nInstagram: https://www.instagram.com/jeremeyyyyyy/\nMerch: https://terminalmontagemerchportal.weebly.com/\nClips Channel: https://www.youtube.com/TerminalMontageClips\n\nAnimatic, Animation, Lineart, Coloring, Backgrounds, Special Effects, Sound Design, Writing by Jeremey Chinshue https://twitter.com/JeremeyChinshue\n\nBackgrounds, Additional Assets: Animatic, Animation, VFX, Lineart, Coloring by Edgar Nielsen\nhttps://twitter.com/funymony\nhttps://www.mediamuffin.com/\nhttps://www.youtube.com/channel/UCQ7LdY3b1_1eN6G0G_igTbQ\n\nVoice of Zelda, Purah and the Koroks by ColonelCheru\nhttps://twitter.com/ColonelCheru\nhttps://www.twitch.tv/colonelcheru\n\nEnglish to Spanish Translation By\nhttps://fiverr.com/share/0rb01E\nhttps://www.fiverr.com/joshuacarp\nhttps://www.britespur.com/\n\nMUSIC:\nMerengue de Limon - Quincas Moreira (Youtube Music Library)\nCucuí Ganon Dos (Extended Mid Suavemente Cut)\nhttps://www.youtube.com/watch?v=yNCgpaMlOcs\n\nZelda Skyward Sword - Ballad of the Goddess (N64 Remix) By TheLegendOfRenegade https://www.youtube.com/watch?v=FfmVBLxXk50\n\nZelda: A Link to the Past - Forest of Mystery (Sega Genesis Remix) By TheLegendOfRenegade https://www.youtube.com/watch?v=qw_8hs3r6xs\n\nGanon's Tower (Fourth Floor) - The Legend of Zelda Ocarina of Time By SiIvaGunner https://www.youtube.com/watch?v=8jbQirTQSOg\n\nZelda: A Link to the Past - Cave 4 (Midi) https://www.khinsider.com/midi/snes/zelda-3-a-link-to-the-past\n\nZelda: A Link Between Worlds - Lorule Boss (N64 Remix) By TheLegendOfRenegade https://www.youtube.com/watch?v=B4qBmhobk-U\n\nZelda: Ocarina of Time - Last Battle (Sega Genesis Remix) By TheLegendOfRenegade https://www.youtube.com/watch?v=ir4Ngj-lveE\n\nCredits theme; Garden Stage by Jattello https://youtu.be/WSDSCWLkaXE?t=2679\n\nLoosely based on this speedrun: https://www.youtube.com/watch?v=QMFE1yvsZGI\n\nFor advertising email: Marketing@Frederator.com\n\nTERMINALMONTAGE® SOMETHING ABOUT® SOMETHING SERIES®\nRegistered in the U.S. Patent and Trademark Office.\n© TERMINALMONTAGE LLC. All Rights Reserved. \nFor additional legal information, please see: https://terminalmontageportal.weebly.com/legal-notices-and-disclaimers.html\n\n#TearsoftheKingdom #LegendofZelda #SomethingSeries #Parody #NintendoSwitch #Zelda #Nintendo #Animation #TerminalMontage",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_wxU3z9VxOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_wxU3z9VxOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_wxU3z9VxOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_wxU3z9VxOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_wxU3z9VxOY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TerminalMontage",
+        "tags": [
+          "terminalmontage",
+          "terminal",
+          "montage",
+          "jeremey",
+          "jer",
+          "chinshue",
+          "nintendo",
+          "animation",
+          "cartoon",
+          "animated",
+          "something",
+          "about",
+          "cartoon violence",
+          "fighting",
+          "action",
+          "meme",
+          "parody",
+          "comedy",
+          "funny",
+          "loud",
+          "screaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Something About Zelda Tears of the Kingdom ANIMATED SPEEDRUN ❤️🖤🖤ANY% 06:12 (no amiibo) WORLD RECORD",
+          "description": "Speedrunner Link is back, but can he beat the king of Suave?\n\nhttp://www.TerminalMontage.com\nPatreon: https://www.patreon.com/terminalmontage\nTwitter: https://twitter.com/TerminalMontage\nFacebook: https://www.facebook.com/TerminalMontage/\nInstagram: https://www.instagram.com/jeremeyyyyyy/\nMerch: https://terminalmontagemerchportal.weebly.com/\nClips Channel: https://www.youtube.com/TerminalMontageClips\n\nAnimatic, Animation, Lineart, Coloring, Backgrounds, Special Effects, Sound Design, Writing by Jeremey Chinshue https://twitter.com/JeremeyChinshue\n\nBackgrounds, Additional Assets: Animatic, Animation, VFX, Lineart, Coloring by Edgar Nielsen\nhttps://twitter.com/funymony\nhttps://www.mediamuffin.com/\nhttps://www.youtube.com/channel/UCQ7LdY3b1_1eN6G0G_igTbQ\n\nVoice of Zelda, Purah and the Koroks by ColonelCheru\nhttps://twitter.com/ColonelCheru\nhttps://www.twitch.tv/colonelcheru\n\nEnglish to Spanish Translation By\nhttps://fiverr.com/share/0rb01E\nhttps://www.fiverr.com/joshuacarp\nhttps://www.britespur.com/\n\nMUSIC:\nMerengue de Limon - Quincas Moreira (Youtube Music Library)\nCucuí Ganon Dos (Extended Mid Suavemente Cut)\nhttps://www.youtube.com/watch?v=yNCgpaMlOcs\n\nZelda Skyward Sword - Ballad of the Goddess (N64 Remix) By TheLegendOfRenegade https://www.youtube.com/watch?v=FfmVBLxXk50\n\nZelda: A Link to the Past - Forest of Mystery (Sega Genesis Remix) By TheLegendOfRenegade https://www.youtube.com/watch?v=qw_8hs3r6xs\n\nGanon's Tower (Fourth Floor) - The Legend of Zelda Ocarina of Time By SiIvaGunner https://www.youtube.com/watch?v=8jbQirTQSOg\n\nZelda: A Link to the Past - Cave 4 (Midi) https://www.khinsider.com/midi/snes/zelda-3-a-link-to-the-past\n\nZelda: A Link Between Worlds - Lorule Boss (N64 Remix) By TheLegendOfRenegade https://www.youtube.com/watch?v=B4qBmhobk-U\n\nZelda: Ocarina of Time - Last Battle (Sega Genesis Remix) By TheLegendOfRenegade https://www.youtube.com/watch?v=ir4Ngj-lveE\n\nCredits theme; Garden Stage by Jattello https://youtu.be/WSDSCWLkaXE?t=2679\n\nLoosely based on this speedrun: https://www.youtube.com/watch?v=QMFE1yvsZGI\n\nFor advertising email: Marketing@Frederator.com\n\nTERMINALMONTAGE® SOMETHING ABOUT® SOMETHING SERIES®\nRegistered in the U.S. Patent and Trademark Office.\n© TERMINALMONTAGE LLC. All Rights Reserved. \nFor additional legal information, please see: https://terminalmontageportal.weebly.com/legal-notices-and-disclaimers.html\n\n#TearsoftheKingdom #LegendofZelda #SomethingSeries #Parody #NintendoSwitch #Zelda #Nintendo #Animation #TerminalMontage"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "M5qDaZZTQaXMvCZVPTZNXb44g3I",
+      "id": "xST1k0SRYKs",
+      "snippet": {
+        "publishedAt": "2023-12-13T16:00:40Z",
+        "channelId": "UClQubH2NeMmGLTLgNdLBwXg",
+        "title": "Extreme Room Makeover!",
+        "description": "I surprised my girlfriend with her dream room! Thank you Google Play and Android for sponsoring this video #sponsored\nDownload Clash of Clans on Google Play: https://gplay.page.link/JFgb\n\nClaim your Clash of Clans in-game reward: https://link.clashofclans.com/?action=voucher&code=68815144-e63a-4ed5-b224-457d7a92b470\n\nCheck out the Samsung Galaxy Z Fold5 to uplevel your gameplay experience:  https://smsng.us/ZFold5GI\n\nCheck out ​⁠@MsMunchie123 \n\nGo buy our new plushies! - https://zhcstore.com/\n\nFollow @abaanaclub on Instagram - https://instagram.com/abaanaclub\n\nFollow these. Thank you :)\nInstagram - https://www.instagram.com/zhc\nTwitter - https://twitter.com/zhc_yt\nFacebook - https://www.facebook.com/ZHC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xST1k0SRYKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xST1k0SRYKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xST1k0SRYKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xST1k0SRYKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xST1k0SRYKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ZHC",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Extreme Room Makeover!",
+          "description": "I surprised my girlfriend with her dream room! Thank you Google Play and Android for sponsoring this video #sponsored\nDownload Clash of Clans on Google Play: https://gplay.page.link/JFgb\n\nClaim your Clash of Clans in-game reward: https://link.clashofclans.com/?action=voucher&code=68815144-e63a-4ed5-b224-457d7a92b470\n\nCheck out the Samsung Galaxy Z Fold5 to uplevel your gameplay experience:  https://smsng.us/ZFold5GI\n\nCheck out ​⁠@MsMunchie123 \n\nGo buy our new plushies! - https://zhcstore.com/\n\nFollow @abaanaclub on Instagram - https://instagram.com/abaanaclub\n\nFollow these. Thank you :)\nInstagram - https://www.instagram.com/zhc\nTwitter - https://twitter.com/zhc_yt\nFacebook - https://www.facebook.com/ZHC"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Gcrl33uDFXEU_eKvxSDNZML9xVg",
+      "id": "vk2OJZHutBM",
+      "snippet": {
+        "publishedAt": "2023-12-13T18:00:02Z",
+        "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+        "title": "Miller’s Girl (2024) Official Trailer - Martin Freeman, Jenna Ortega",
+        "description": "Miller’s Girl - Watch the trailer now! In Theaters January 26. Starring Martin Freeman, Jenna Ortega, Dagmara Domińczyk, Bashir Salahuddin, and Gideon Adlon.\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\n#MillersGirlMovie\n\nA talented young writer (Jenna Ortega) embarks on a creative odyssey when her teacher (Martin Freeman) assigns a project that entangles them both in an increasingly complex web. As lines blur and their lives intertwine, professor and protégé must confront their darkest selves while straining to preserve their individual sense of purpose and the things they hold most dear.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vk2OJZHutBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vk2OJZHutBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vk2OJZHutBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vk2OJZHutBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vk2OJZHutBM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lionsgate Movies",
+        "tags": [
+          "lionsgate",
+          "lions gate",
+          "movie",
+          "film",
+          "trailer",
+          "official trailer",
+          "Martin Freeman",
+          "Jenna Ortega",
+          "Gideon Adlon",
+          "Bashir Salahuddin",
+          "Dagmara Domińczyk",
+          "Christine Adams",
+          "Jade Halley Bartlett",
+          "Miller's Girl",
+          "miller girl",
+          "Seth Rogen",
+          "Point Grey Pictures",
+          "Lionsgate Films",
+          "palm springs",
+          "Palm Springs Film Festival",
+          "miller's girl trailer",
+          "miller's girl official trailer",
+          "creative writing",
+          "writing",
+          "writer",
+          "teacher",
+          "student",
+          "creative",
+          "professor",
+          "protégé",
+          "complex web",
+          "drama"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Miller’s Girl (2024) Official Trailer - Martin Freeman, Jenna Ortega",
+          "description": "Miller’s Girl - Watch the trailer now! In Theaters January 26. Starring Martin Freeman, Jenna Ortega, Dagmara Domińczyk, Bashir Salahuddin, and Gideon Adlon.\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\n#MillersGirlMovie\n\nA talented young writer (Jenna Ortega) embarks on a creative odyssey when her teacher (Martin Freeman) assigns a project that entangles them both in an increasingly complex web. As lines blur and their lives intertwine, professor and protégé must confront their darkest selves while straining to preserve their individual sense of purpose and the things they hold most dear."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PZ2FwMRza8c0bIOXQvUapodDBeg",
+      "id": "vcJ6l5z9GHk",
+      "snippet": {
+        "publishedAt": "2023-12-14T04:00:02Z",
+        "channelId": "UCiS882YPwZt1NfaM0gR0D9Q",
+        "title": "Character Teaser - \"Navia: By Special Invitation\" | Genshin Impact",
+        "description": "Fate always plays its part, but meetings and reunions don't just happen by chance.\nIn Navia's eyes, happiness is something you must earn with your own two hands.\nDownload FREE: https://hoyo.link/d0vPBBAd\n\n#GenshinImpact #HoYoverse #Character #Teaser #Navia\n\n↓ Follow us for the latest news ↓\nHoYoLAB: https://hoyo.link/34115CA6\nOfficial Website: https://hoyo.link/b7SCBOAd\nOfficial Community: https://hoyo.link/52uYBBAd\nFacebook: https://hoyo.link/77SCB0Ad\nTwitter: https://hoyo.link/7bSCBxAd\nTwitch: https://hoyo.link/4bSCBFAd\nInstagram: https://hoyo.link/a6SCBEAd\nReddit: https://hoyo.link/c1SCBIAd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vcJ6l5z9GHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vcJ6l5z9GHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vcJ6l5z9GHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vcJ6l5z9GHk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vcJ6l5z9GHk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Genshin Impact",
+        "tags": [
+          "Amber",
+          "amber vtuber",
+          "genshi",
+          "genshi game",
+          "genshi impact",
+          "genshi video",
+          "genshin",
+          "genshin game",
+          "genshin impact",
+          "genshin impact 2020",
+          "genshin impact game",
+          "genshin impact good",
+          "genshin impact graphics",
+          "genshin impact introduction",
+          "genshin impact manga",
+          "genshin impact wiki",
+          "geshin",
+          "geshin game",
+          "Teyvat",
+          "yuanshen game",
+          "miHoYo China",
+          "miHoYo Japan",
+          "adventure story",
+          "open world game",
+          "anime style",
+          "MMORPG",
+          "anime games",
+          "mobile game",
+          "MMO PlayStation",
+          "yt:cc=on"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Character Teaser - \"Navia: By Special Invitation\" | Genshin Impact",
+          "description": "Fate always plays its part, but meetings and reunions don't just happen by chance.\nIn Navia's eyes, happiness is something you must earn with your own two hands.\nDownload FREE: https://hoyo.link/d0vPBBAd\n\n#GenshinImpact #HoYoverse #Character #Teaser #Navia\n\n↓ Follow us for the latest news ↓\nHoYoLAB: https://hoyo.link/34115CA6\nOfficial Website: https://hoyo.link/b7SCBOAd\nOfficial Community: https://hoyo.link/52uYBBAd\nFacebook: https://hoyo.link/77SCB0Ad\nTwitter: https://hoyo.link/7bSCBxAd\nTwitch: https://hoyo.link/4bSCBFAd\nInstagram: https://hoyo.link/a6SCBEAd\nReddit: https://hoyo.link/c1SCBIAd"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SCzxsDsYwW8RabmeuKoK5kRzYA0",
+      "id": "ib8fl7KrUC4",
+      "snippet": {
+        "publishedAt": "2023-12-13T17:00:41Z",
+        "channelId": "UCtRa82x1BwQdnpHf0Es4gcQ",
+        "title": "A Tribute To Andre Braugher - Our Favorite Holt Moments",
+        "description": "Always our Captain. We love you, Andre.\n\n» Subscribe for More: https://www.youtube.com/c/NBCBrooklyn99?sub_confirmation=1\n» Stream on Peacock: https://pck.tv/3u6iDEy\n\nBROOKLYN NINE-NINE ON SOCIAL:\nLike Brooklyn Nine-Nine on Facebook: https://www.facebook.com/BrooklynNineNine\n\nFollow Brooklyn Nine-Nine on Twitter: https://twitter.com/NBCBrooklyn99\nFollow Brooklyn Nine-Nine on Instagram: https://www.instagram.com/nbcbrooklyn99\n\nFind Brooklyn Nine-Nine trailers, full episode highlights, previews, promos, clips, and digital exclusives here. \n\nNBC ON SOCIAL:\nYouTube: http://www.youtube.com/nbc\nTwitter: http://Twitter.com/NBC\nFacebook: http://Facebook.com/NBC\nInstagram: http://instagram.com/nbc\n\nABOUT BROOKLYN NINE-NINE\n\"Brooklyn Nine-Nine\" follows the exploits of hilarious Det. Jake Peralta (Andy Samberg) and his stoically ever-professional captain, Raymond Holt (Andre Braugher), along with their diverse, lovable colleagues as they police the NYPD's 99th Precinct. In this final season of the series, Jake and the squad must try to balance their personal lives and their professional lives over the course of a very difficult year.\n\nRounding out the ensemble is Sgt. Amy Santiago (Melissa Fumera), who has a passion for organization and a weakness for dork dancing; Lt. Terry Jeffords (Terry Crews), a mountain of a man whose most powerful muscle is his sweetheart; Jake's best friend and human puppy dog, Det. Charles Boyle (Joe Lo Truglio); and the incredibly secretive, tough-as-nails Rosa Diaz (Stephanie Beatriz). Also part of the Nine-Nine are veteran officers Det. Scully (Joel McKinnon Miller) and Det. Hitchcock (Dirk Blocker), whose only skill as police officers is their ability to make a passable pot of coffee.\n\nCreated by Emmy Award-winning writer/producers Dan Goor and Michael Schur, \"Brooklyn Nine-Nine\" won the 2014 Golden Globe Awards for Best Television Series - Comedy or Musical and Best Performance by an Actor in a Television Series - Comedy or Musical (Samberg). Emmy winner Braugher earned four Emmy nominations for Outstanding Supporting Actor in a Comedy Series for his role as Capt. Holt.\n\nBrooklyn Nine-Nine\nhttps://www.youtube.com/NBCBrooklyn99\n\n#brooklynninenine",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ib8fl7KrUC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ib8fl7KrUC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ib8fl7KrUC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ib8fl7KrUC4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ib8fl7KrUC4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Brooklyn Nine-Nine",
+        "tags": [
+          "Brooklyn Nine-Nine",
+          "brooklyn 99",
+          "b99",
+          "Stephanie Beatriz",
+          "NBC",
+          "Andre Braugher",
+          "Terry Crews",
+          "andre braugher",
+          "andre braugher interview",
+          "andre braugher movies",
+          "captain holt best moments",
+          "captain holt bone",
+          "captain holt marshmallow",
+          "captain holt hot damn",
+          "captain holt yas queen",
+          "captain holt funny moments",
+          "captain holt cheddar",
+          "captain holt doctor rant",
+          "holt",
+          "holt best moments",
+          "holt vindication",
+          "raymond holt best moments",
+          "raymond holt bone",
+          "raymond holt actor"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "A Tribute To Andre Braugher - Our Favorite Holt Moments",
+          "description": "Always our Captain. We love you, Andre.\n\n» Subscribe for More: https://www.youtube.com/c/NBCBrooklyn99?sub_confirmation=1\n» Stream on Peacock: https://pck.tv/3u6iDEy\n\nBROOKLYN NINE-NINE ON SOCIAL:\nLike Brooklyn Nine-Nine on Facebook: https://www.facebook.com/BrooklynNineNine\n\nFollow Brooklyn Nine-Nine on Twitter: https://twitter.com/NBCBrooklyn99\nFollow Brooklyn Nine-Nine on Instagram: https://www.instagram.com/nbcbrooklyn99\n\nFind Brooklyn Nine-Nine trailers, full episode highlights, previews, promos, clips, and digital exclusives here. \n\nNBC ON SOCIAL:\nYouTube: http://www.youtube.com/nbc\nTwitter: http://Twitter.com/NBC\nFacebook: http://Facebook.com/NBC\nInstagram: http://instagram.com/nbc\n\nABOUT BROOKLYN NINE-NINE\n\"Brooklyn Nine-Nine\" follows the exploits of hilarious Det. Jake Peralta (Andy Samberg) and his stoically ever-professional captain, Raymond Holt (Andre Braugher), along with their diverse, lovable colleagues as they police the NYPD's 99th Precinct. In this final season of the series, Jake and the squad must try to balance their personal lives and their professional lives over the course of a very difficult year.\n\nRounding out the ensemble is Sgt. Amy Santiago (Melissa Fumera), who has a passion for organization and a weakness for dork dancing; Lt. Terry Jeffords (Terry Crews), a mountain of a man whose most powerful muscle is his sweetheart; Jake's best friend and human puppy dog, Det. Charles Boyle (Joe Lo Truglio); and the incredibly secretive, tough-as-nails Rosa Diaz (Stephanie Beatriz). Also part of the Nine-Nine are veteran officers Det. Scully (Joel McKinnon Miller) and Det. Hitchcock (Dirk Blocker), whose only skill as police officers is their ability to make a passable pot of coffee.\n\nCreated by Emmy Award-winning writer/producers Dan Goor and Michael Schur, \"Brooklyn Nine-Nine\" won the 2014 Golden Globe Awards for Best Television Series - Comedy or Musical and Best Performance by an Actor in a Television Series - Comedy or Musical (Samberg). Emmy winner Braugher earned four Emmy nominations for Outstanding Supporting Actor in a Comedy Series for his role as Capt. Holt.\n\nBrooklyn Nine-Nine\nhttps://www.youtube.com/NBCBrooklyn99\n\n#brooklynninenine"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v78Vkhv01JFZ6Z5TsuSvk9zy1BA",
+      "id": "MG7-9v65Zo0",
+      "snippet": {
+        "publishedAt": "2023-12-13T19:00:09Z",
+        "channelId": "UCAts6tUdnEQIWZ8EAdVBDKA",
+        "title": "'Unique' 200-Year-Old Jewellery Collection | Antiques Roadshow",
+        "description": "This extraordinary collection of jewellery was handed down to this lady by her grandmother who passed away at the grand old age of 102. Items that catch the eye include a Georgian gold belcher link chain, making for a valuation that takes the owner completely by surprise. Hugh Scully and the experts from Antiques Roadshow take a look at some fantastic antiques and the history and stories surrounding them. This clip was filmed in Winchester College in 2000.\n\nWelcome to the home of Antiques Roadshow on YouTube. Here you'll find all the best clips from Britain's most popular antiques appraisal show. From items that have been handed down the generations to those picked up in junk shops, discover their history and delight in the possibility that it could in fact be a priceless treasure. \n\nSubscribe to the channel so that you don't miss a thing: https://www.youtube.com/channel/UCAts6tUdnEQIWZ8EAdVBDKA \n\nStream full episodes of Antiques Roadshow on BBC iPlayer: https://www.bbc.co.uk/iplayer/episodes/b006mj2y/antiques-roadshow\n\nThis is a commercial channel from BBC Studios. To contact us or provide feedback please visit: https://www.bbcstudios.com/contact/contact-us/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MG7-9v65Zo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MG7-9v65Zo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MG7-9v65Zo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MG7-9v65Zo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MG7-9v65Zo0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BBC Antiques Roadshow",
+        "tags": [
+          "Antiques",
+          "Antiques Roadshow",
+          "Roadshow",
+          "crafts",
+          "models",
+          "paintings",
+          "art",
+          "sculptures",
+          "ceramics",
+          "treasure",
+          "bbc",
+          "bbc studios",
+          "jewellery",
+          "watches",
+          "books",
+          "photography",
+          "old",
+          "classic",
+          "clocks",
+          "furniture",
+          "carpets",
+          "rugs",
+          "coins",
+          "medals",
+          "collectables",
+          "decor",
+          "furnishings",
+          "telescopes",
+          "salvage",
+          "busts",
+          "ephermera",
+          "mirrors",
+          "toys",
+          "tools",
+          "silver",
+          "gold",
+          "metals",
+          "textiles",
+          "wood carvings",
+          "walking sticks",
+          "canes",
+          "vintage clothes",
+          "transport",
+          "british",
+          "jewel",
+          "jeweller",
+          "golds",
+          "silvers",
+          "bronze",
+          "bronzes",
+          "victorian",
+          "georgian",
+          "jewellery box",
+          "ring",
+          "rings",
+          "necklace",
+          "necklaces"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "'Unique' 200-Year-Old Jewellery Collection | Antiques Roadshow",
+          "description": "This extraordinary collection of jewellery was handed down to this lady by her grandmother who passed away at the grand old age of 102. Items that catch the eye include a Georgian gold belcher link chain, making for a valuation that takes the owner completely by surprise. Hugh Scully and the experts from Antiques Roadshow take a look at some fantastic antiques and the history and stories surrounding them. This clip was filmed in Winchester College in 2000.\n\nWelcome to the home of Antiques Roadshow on YouTube. Here you'll find all the best clips from Britain's most popular antiques appraisal show. From items that have been handed down the generations to those picked up in junk shops, discover their history and delight in the possibility that it could in fact be a priceless treasure. \n\nSubscribe to the channel so that you don't miss a thing: https://www.youtube.com/channel/UCAts6tUdnEQIWZ8EAdVBDKA \n\nStream full episodes of Antiques Roadshow on BBC iPlayer: https://www.bbc.co.uk/iplayer/episodes/b006mj2y/antiques-roadshow\n\nThis is a commercial channel from BBC Studios. To contact us or provide feedback please visit: https://www.bbcstudios.com/contact/contact-us/"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MjiqGy1HKLwzkOhuiDoO3Ibz994",
+      "id": "hL1ZBbIrqYU",
+      "snippet": {
+        "publishedAt": "2023-12-12T17:30:08Z",
+        "channelId": "UCNWHllkNIWv1MSvKcOzLsow",
+        "title": "Open Thoughts with Blueface",
+        "description": "Open Thoughts Here…\n\n\nsits down with Funny Marco \n\nThank you PrizePicks for sponsoring this video. Click https://prizepicks.onelink.me/ivHR/FunnyMarco and use code FUNNYMARCO to get an instant deposit match of up to $100!\n \nThanks for watching! I hope you enjoyed every second of this video! \nMake sure you like, share, & subscribe.\n\nWho would you like to see me interview next ? Comment Below\n\nFollow Me On All Socials: \n- INSTAGRAM: https://www.instagram.com/funnymarco/?hl=en\n- FACEBOOK: https://www.facebook.com/funnymarco1\n- TIKTOK: https://www.tiktok.com/@realfunnymarco?lang=en\n- TWITTER: https://twitter.com/funny_marco?lang=en",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hL1ZBbIrqYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hL1ZBbIrqYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hL1ZBbIrqYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hL1ZBbIrqYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hL1ZBbIrqYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Open Thoughts",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Open Thoughts with Blueface",
+          "description": "Open Thoughts Here…\n\n\nsits down with Funny Marco \n\nThank you PrizePicks for sponsoring this video. Click https://prizepicks.onelink.me/ivHR/FunnyMarco and use code FUNNYMARCO to get an instant deposit match of up to $100!\n \nThanks for watching! I hope you enjoyed every second of this video! \nMake sure you like, share, & subscribe.\n\nWho would you like to see me interview next ? Comment Below\n\nFollow Me On All Socials: \n- INSTAGRAM: https://www.instagram.com/funnymarco/?hl=en\n- FACEBOOK: https://www.facebook.com/funnymarco1\n- TIKTOK: https://www.tiktok.com/@realfunnymarco?lang=en\n- TWITTER: https://twitter.com/funny_marco?lang=en"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VdzcC4qcc8w_X56k_6n-0E1Pq6I",
+      "id": "CFyIxbG9i7Y",
+      "snippet": {
+        "publishedAt": "2023-12-13T23:35:15Z",
+        "channelId": "UC72UssJ1DNQcakZXm-B2-zw",
+        "title": "Boston fertility doctor accused of secretly fathering patient's daughter over 40 years ago",
+        "description": "The woman suing the doctor, who is now retired, says her daughter made a disturbing discovery when she used a home DNA test kit.\n\nSubscribe to WCVB on YouTube now for more: http://bit.ly/1e8lAMZ\n\nGet more Boston news: http://www.wcvb.com\nLike us:  https://www.facebook.com/wcvb5\nFollow us: https://twitter.com/WCVB\nInstagram: https://www.instagram.com/wcvb5/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CFyIxbG9i7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CFyIxbG9i7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CFyIxbG9i7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CFyIxbG9i7Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CFyIxbG9i7Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WCVB Channel 5 Boston",
+        "tags": [
+          "Boston",
+          "Boston news",
+          "Carolyn Berger",
+          "Dr. Merle Berger",
+          "IVF civil lawsuit",
+          "Massachusetts",
+          "Sarah Depoian",
+          "fertility doctor accused of using own sperm",
+          "fertility doctor sued",
+          "in vitro fertilisation",
+          "wcvb"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Boston fertility doctor accused of secretly fathering patient's daughter over 40 years ago",
+          "description": "The woman suing the doctor, who is now retired, says her daughter made a disturbing discovery when she used a home DNA test kit.\n\nSubscribe to WCVB on YouTube now for more: http://bit.ly/1e8lAMZ\n\nGet more Boston news: http://www.wcvb.com\nLike us:  https://www.facebook.com/wcvb5\nFollow us: https://twitter.com/WCVB\nInstagram: https://www.instagram.com/wcvb5/"
+        }
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "zKP7YSyZepviFrbQjXMWTrJpN64",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "98jPY1H5--p2QznBusLf_m8uNaI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FmuHZa6DQOc"
+      },
+      "snippet": {
+        "publishedAt": "2012-03-22T05:00:08Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB - 비밀(Insane) Official Music Video",
+        "description": "BTOB의 데뷔곡 '비밀(Insane)'의 뮤직비디오 최초공개! '2012년 최고의 기대주'라는 타이틀에 걸맞는 퍼포먼스와 노래실력을 가진 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FmuHZa6DQOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FmuHZa6DQOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FmuHZa6DQOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-03-22T05:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JbpqoI07vIGVVVJo3QYUhDwKeho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iwdq3NtpeFQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-02T10:00:12Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "비투비(BTOB)의 킬링보이스를 라이브로! – 그리워하다, 너 없인 안 된다, 아름답고도 아프구나, 나의 바람, 두 번째 고백, 기도, 봄날의 기억, 언젠가 | 딩고뮤직",
+        "description": "'나의 바람'으로 돌아온 비투비 많이 사랑해 주길 바람     [선곡리스트] 00:00 오프닝 00:36 그리워하다 02:16 봄날의 기억 03:30 두 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iwdq3NtpeFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iwdq3NtpeFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iwdq3NtpeFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-02T10:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pKpRVw5tPMxbVyaZIJJoEnOAML0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wDkjWSt3HOM"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-16T09:00:57Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB(비투비) - &#39;그리워하다&#39; Official Music Video",
+        "description": "BTOB(비투비) - '그리워하다' Official Music Video Download on iTunes Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wDkjWSt3HOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wDkjWSt3HOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wDkjWSt3HOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-16T09:00:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D4tif2SesjtGNGk6DWSU5E-R9nY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xmNp5FuBQxA"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-12T14:00:44Z",
+        "channelId": "UCsaEd_rKBccEukTaje8biEw",
+        "title": "BTOB - Killing Voice | Reaction",
+        "description": "0:00 Intro 2:25 Support AD 5:12 Killing Voice 33:10 Final Thoughts Subscribe to my 2nd Channel!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xmNp5FuBQxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xmNp5FuBQxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xmNp5FuBQxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Caitlin Benson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-12T14:00:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z5_Cw5PmSI8Ih5NoSrpHw93PhU4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "__BFUf_nJl0"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-06T15:00:02Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB(비투비) - 기도(I&#39;ll be your man) Official Music Video",
+        "description": "BTOB(비투비) - 기도(I'll be your man) M/V.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/__BFUf_nJl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/__BFUf_nJl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/__BFUf_nJl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-06T15:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rb303Z-16jYzHm21aCVUvIxIve4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zXOoza3sxiw"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-02T09:00:03Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "비투비 (BTOB) - &#39;나의 바람 (Wind And Wish)&#39; Official Music Video",
+        "description": "비투비 (BTOB) - '나의 바람 (Wind And Wish)' Official Music Video Composed by 임현식, 손영진(MosPick) Lyrics by 임현식, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zXOoza3sxiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zXOoza3sxiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zXOoza3sxiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-02T09:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kt6NKfxg6j2j_3o7IIZoZW2i-1Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hs16eVnokrU"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-01T11:41:53Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[ENG] [1회] ♬ 아름답고도 아프구나(Choir Ver.) - 비투비(BTOB)ㅣ100초 퍼포먼스#킹덤:레전더리워 |  EP.1 | Mnet 210401 방송",
+        "description": "[1회] ♬ 아름답고도 아프구나(Choir Ver.) - 비투비(BTOB)ㅣ100초 퍼포먼스 전설이 되어라, WHO IS THE KING? ＜킹덤(KINGDOM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hs16eVnokrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hs16eVnokrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hs16eVnokrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-01T11:41:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sxXYInssfIMOcdhZWH54cdaRFJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OWAQhpN4IwA"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-06T14:34:20Z",
+        "channelId": "UCmjNKt6kITwaZTqvWuaSPLg",
+        "title": "🤹비투비(BTOB)똘끼 너무 좋아 ㅠㅠ ㅠ 비투비가 부른 레드벨벳 Dumb Dumb 사장님 고개 숙이심😔;; 힘내세욧..★ | 사장님이 보고있다 | SBS ENTER",
+        "description": "그룹 비투비는 파격적인 여장을 한 후 빨간융단이라 칭하며 노래 Dumb Dumb 무대를 코믹하게 꾸며주었다. #비투비 #BTOB ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OWAQhpN4IwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OWAQhpN4IwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OWAQhpN4IwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-06T14:34:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0XGFVACaPEKhnZG2e4gcfbXUGa4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "khE7pSOgDbA"
+      },
+      "snippet": {
+        "publishedAt": "2013-09-05T03:00:12Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB - 스릴러 (Thriller) Official Music Video",
+        "description": "BTOB - 스릴러 (Thriller) M/V.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/khE7pSOgDbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/khE7pSOgDbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/khE7pSOgDbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-09-05T03:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c5MmQsLPGzEp8CSHupTiWmDBt28",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cXcUXWL1mJA"
+      },
+      "snippet": {
+        "publishedAt": "2012-09-12T03:00:03Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB - &#39;WOW&#39; Official Music Video",
+        "description": "Official Music Video for BTOB's WOW (2012.09.12) 비투비 - WOW 뮤직비디오 Available on iTunes http://bit.ly/T30QLK.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cXcUXWL1mJA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cXcUXWL1mJA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cXcUXWL1mJA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-09-12T03:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uwnOquVAPdfyvWcb4KMGGsAIqu4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q_CD-4YqQGQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T10:00:14Z",
+        "channelId": "UCFbQ_p8s6WYv5JDDCT91j5A",
+        "title": "『Playlist』 2023 비투비 노래 모음 (신곡 포함!)ㅣ Best Songs of BTOB ㅣ 2시간",
+        "description": "중간광고삭제 / 01:56:05 ✔️ 음악처음부터 / 00:00:00 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q_CD-4YqQGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q_CD-4YqQGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q_CD-4YqQGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "리스펙 뮤직 『Respect Music』",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T10:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t6YUmeeq3APnkG-_T8yH84H3LuA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uTB_2OfZMrk"
+      },
+      "snippet": {
+        "publishedAt": "2012-05-22T14:59:59Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB - 그 입술을 뺏었어(Irresistible Lips) M/V",
+        "description": "2012년 최고의 기대주, 비투비의 첫 아시아 스페셜 에디션! 지난 3월, 유튜브를 통해 전세계 생중계로 화려하게 데뷔한 비투비가 세계 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uTB_2OfZMrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uTB_2OfZMrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uTB_2OfZMrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-05-22T14:59:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SicEBOIqUAmDS44Imrl-7bJdtzE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i06rYg2Kqyg"
+      },
+      "snippet": {
+        "publishedAt": "2013-04-17T15:00:32Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB - 두 번째 고백 (2nd Confession) M/V (PJ Version)",
+        "description": "비투비 두 번째 고백 뮤직비디오 (파자마 버전) BTOB 2nd Confession (PJ Version) Now available on iTunes! America: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i06rYg2Kqyg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i06rYg2Kqyg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i06rYg2Kqyg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-04-17T15:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2gT0Z9H25L34uJpwXrZRpVyprIw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A1aRHQ6EnXE"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-12T03:00:00Z",
+        "channelId": "UCLvhr40dgoBcV4XBlOhauNw",
+        "title": "비투비 (BTOB) - For You (신데렐라와 네 명의 기사 OST) [Music Video]",
+        "description": "tvN 불금불토 스페셜 '신데렐라와 네 명의 기사 (신네기)' 그 첫 번째 OST! 실력파 만능 인기 아이돌 비투비 (BTOB)가 전하는 스윗심쿵 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A1aRHQ6EnXE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A1aRHQ6EnXE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A1aRHQ6EnXE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "워너뮤직코리아 (Warner Music Korea)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-12T03:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AdFscYAA-kyX1qT03GU22XoFS2k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KLNr84h5qL4"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-12T09:00:04Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "비투비(BTOB) - &#39;아름답고도 아프구나(Beautiful Pain)&#39; Official Music Video",
+        "description": "[Special Album] HOUR MOMENT - BTOB - Apple Music: https://apple.co/2z1XRwb - Spotify: https://spoti.fi/2PoksNz - Melon: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KLNr84h5qL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KLNr84h5qL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KLNr84h5qL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-12T09:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZevNsepXhS0fVyEVR9_7UcwaCOs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0FD3ybAUtY8"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-12T11:04:55Z",
+        "channelId": "UCuL5egbU75MJ3-Ml4hB2csA",
+        "title": "BTOB-BLUE &amp; 4U REACTION | Stand by me, When it rains, Show Your Love, Tension &amp; Bull&#39;s Eye",
+        "description": "I was not prepared to be this distracted by their visuals.. This was just an introduction to their live performances for me, can't wait to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0FD3ybAUtY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0FD3ybAUtY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0FD3ybAUtY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "2J Reacts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-12T11:04:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pdHTBekDauDgxiuWy7qevqVVUVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MGrOeLqDAHk"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-27T10:00:01Z",
+        "channelId": "UCPde4guD9yFBRzkxk2PatoA",
+        "title": "(ENG/JPN) [Weekly Idol] 비투비2배속 &#39;WOW&#39;!! l EP.261",
+        "description": "체감 4배속 댄스=비투비의 와우! 강제 과로사 시키는 빨라도 너무 빠른 안무! 과로사한 모습도 너무 귀여워서 씹덕사ㅠㅠㅠㅠ멜로디 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MGrOeLqDAHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MGrOeLqDAHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MGrOeLqDAHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ALL THE K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-27T10:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iyoN2lNCxvlqchmqrQL72CskJ4s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AvM16Vy1byc"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-21T09:00:04Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "비투비 (BTOB) - &#39;노래 (The Song)&#39; Official Music Video",
+        "description": "비투비 (BTOB) - '노래 (The Song)' Official Music Video Composed by 임현식, MosPick Lyrics by 임현식, 이민혁 (HUTA), 프니엘 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AvM16Vy1byc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AvM16Vy1byc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AvM16Vy1byc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-21T09:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hZjvDbEKxKddUznCpedy1XOsehc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nrWIRen3D4c"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-02T11:00:27Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB COMEBACK 🍀💙",
+        "description": "BTOB COMEBACK #비투비 #BTOB #WIND_AND_WISH #나의_바람.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nrWIRen3D4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nrWIRen3D4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nrWIRen3D4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-02T11:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PZyEiDwYaczayNtIiiZSixBxLNE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "42A-rFdralM"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-06T09:00:00Z",
+        "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+        "title": "[MV] BTOB(비투비) _ MOVIE",
+        "description": "[MV] BTOB(비투비) _ MOVIE *English subtitles are now available. :D (Please click on 'CC' button or activate 'Interactive Transcript' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/42A-rFdralM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/42A-rFdralM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/42A-rFdralM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1theK (원더케이)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-06T09:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pcyq0-q-1ClkRzJ-7W1c4Krrku8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qgtaSJ3PSMM"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-16T15:00:06Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB - 뛰뛰빵빵 (Beep Beep) Official Music Video",
+        "description": "BTOB - 뛰뛰빵빵 (Beep Beep) M/V Monkey3 Event page ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qgtaSJ3PSMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qgtaSJ3PSMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qgtaSJ3PSMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-16T15:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tYYveKfU3ESfrJI9ffba2iqKAmc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VfGRaE7JxzQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-19T09:00:29Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB Magic Show 💫",
+        "description": "BTOB Magic Show #비투비 #BTOB.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VfGRaE7JxzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VfGRaE7JxzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VfGRaE7JxzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-19T09:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SqAxdkMMf8WkS3adtpWJS4CuDXA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QCSfTIFbJF4"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-19T15:57:23Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[BTOB - Missing You] Comeback Stage | M COUNTDOWN 171019 EP.545",
+        "description": "KPOP Chart Show M COUNTDOWN | EP.545 - BTOB - Missing You ▷Watch more video clips: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QCSfTIFbJF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QCSfTIFbJF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QCSfTIFbJF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-19T15:57:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p1KvU-KWs6Das3LPrx7Yfu9Cv1c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f4rN5Y7Dx_I"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-05T15:00:00Z",
+        "channelId": "UCgB7A457ULlgm5c3948vr-w",
+        "title": "BTOB(비투비) - 괜찮아요 (It&#39;s Okay) Dance Ver M/V",
+        "description": "BTOB(비투비) - 괜찮아요 (It's Okay) Dance Ver M/V.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f4rN5Y7Dx_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f4rN5Y7Dx_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f4rN5Y7Dx_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BTOB 비투비 (Official YouTube Channel)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-05T15:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VTH8z0mDeN7gaSnpEp7HJQ3aJPc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AetoZqHx4jo"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-30T13:00:03Z",
+        "channelId": "UCC0334ee-VXMUPLFDc5mZPA",
+        "title": "btob the english genius",
+        "description": "yes cmoorrrnnnn [disclaimer] i only do rough translation hope you understand that i cant sub the whole thing! --- buy me a coffee ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AetoZqHx4jo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AetoZqHx4jo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AetoZqHx4jo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "minhyukbeat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-30T13:00:03Z"
+      }
+    }
+  ]
+}
